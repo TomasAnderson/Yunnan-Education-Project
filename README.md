@@ -8,8 +8,9 @@ This project is under Ministry of Education in Yunnan, China. The aim of this pr
 
 1) For each school, we have two files:
 
-  1. class schedules (time, class, teacher, etc)
-  2. class and its classroom number
+  a. class schedules (time, class, teacher, etc)
+  
+  b. class and its classroom number
 
 2) For log files, we have the following schema:
 
