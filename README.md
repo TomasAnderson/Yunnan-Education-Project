@@ -6,16 +6,16 @@ This project is under Ministry of Education in Yunnan, China. The aim of this pr
 
 ##### Data Source
 
-1) For each school, we have two files:
+a) For each school, we have two files:
 
-1. class schedules (time, class, teacher, etc)
-2. class and its classroom number
+  1. class schedules (time, class, teacher, etc)
+  2. class and its classroom number
 
-2) For log files, we have the following schema:
+b) For log files, we have the following schema:
 
-​	time stamp + process Id, process name
+  ​	time stamp + process Id, process name
 
-###### Desired Clean Output
+##### Desired Clean Output
 
 pid, exe, date, weekday, begintime, endtime, schl, class teacher, subject clrm, aio, grade
 
