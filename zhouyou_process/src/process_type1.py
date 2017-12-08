@@ -25,7 +25,7 @@ def split_class_teacher(df):
     """
     split class and teacher infomation
 
-    :param df: schedule column, looks like "语文\r(吴昌梅)" or "思想品德教育"
+    :param df: schedule column, looks like "语文\r(吴昌梅)" or "思想品德教育" or "吴昌梅"
     :return: a class_type dateframe and teacher dataframe
     """
     class_arr, teacher_arr = [], []
@@ -33,8 +33,12 @@ def split_class_teacher(df):
         elm = re.sub("(\r|\n)", "", str(elm))
         # print("before splitting is %s\n" % elm)
         if "(" not in elm and "（" not in elm:
-            class_arr.append(elm)
-            teacher_arr.append("")
+            if elm == "班会" or elm == "自习" or elm == "少年宫活动":
+                class_arr.append(elm)
+                teacher_arr.append("")
+            else:
+                class_arr.append("自习")
+                teacher_arr.append(elm)
         else:
             try:
                 class_type, teacher = re.match(r"(.*)\((.*)\)", elm).groups()
@@ -67,7 +71,7 @@ def load_class_schedule(class_n):
     :return: a combined dataframe contains [weekday, begintime, endtime, schl, class, teacher, subject, clrm, aio, grade]
     """
     try:
-        sched_df = pd.read_csv(data_path+str(class_n)+".csv")
+        sched_df = pd.read_csv(data_path+"clean_classes/%s.csv"%str(class_n))
     except FileNotFoundError:
         return None
     begintime_df, endtime_df = get_time_df(sched_df["时间"])
@@ -90,7 +94,7 @@ def load_class_schedule(class_n):
 
 
 # 1. specify configuration
-schl = "hyzx"
+schl = "mcyz"
 data_path = "../preprocess/type1/%s/" % schl
 output_path = "../output/%s.csv" % schl
 day_of_week = ["星期一", "星期二", "星期三", "星期四", "星期五"]
