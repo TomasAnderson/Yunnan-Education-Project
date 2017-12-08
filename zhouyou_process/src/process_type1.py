@@ -94,7 +94,7 @@ def load_class_schedule(class_n):
 
 
 # 1. specify configuration
-schl = "mcyz"
+schl = "xjzx"
 data_path = "../preprocess/type1/%s/" % schl
 output_path = "../output/%s.csv" % schl
 day_of_week = ["星期一", "星期二", "星期三", "星期四", "星期五"]
