@@ -19,7 +19,7 @@ def get_pid2exe(a1, a2):
         pid2exe[c[0]] = c[1]
     return pid2exe
 
-day_of_week = ["星期一", "星期二", "星期三", "星期四", "星期五"]
+day_of_week = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
 
 def parse_dtime(dtime):
     # dtime = "2017-11-08 15:36:30 Wed"
@@ -37,13 +37,16 @@ def parse_log_content(fname):
                 d = json.loads(line)
                 weekday, time = parse_dtime(d['time'])
                 pid2exe = get_pid2exe(d['out'], d['in'])
+                return weekday, time, pid2exe, error_lines
             except json.JSONDecodeError:
                 error_lines.append([fname, line])
-    return weekday, time, pid2exe, error_lines
+                return None, None, None, error_lines
 
-def print_error_lines(error_lines):
+def get_error_lines(error_lines):
+    lines = []
     for item in error_lines:
-        print("In file %s, the error line is \n%s\n" % (item[0], item[1]))
+        lines.append("In file %s, the error line is \n%s\n\n" % (item[0], item[1]))
+    return '\n'.join(lines)
 
 def load_school_df(schl):
     return pd.read_csv("../output/%s.csv"%schl, encoding="utf-8")
@@ -58,13 +61,15 @@ def get_schl_dfs():
 def query(schl, clrm, time, weekday):
     if schl not in schl2df:
         print("Invalid schl name %s\n"%(schl))
-        return None
+        return ["Not Found"]*7
 
     df = schl2df[schl]
     query_result = df.loc[(df["weekday"] == weekday)
                             & (df["clrm"] == int(clrm))
                             & (df["begintime"] < time)
                             & (df["endtime"] > time)]
+    if query_result.empty:
+        return ["Not Found"]*7
 
     begintime = list(query_result["begintime"])[0]
     endtime = list(query_result["endtime"])[0]
@@ -75,15 +80,13 @@ def query(schl, clrm, time, weekday):
     grade= list(query_result["grade"])[0]
     return begintime,endtime,class_n,teacher,subject,aio,grade
 
-
+def get_output_header():
+    return "pid, exe, date, weekday, begintime, endtime, schl, class, teacher, subject, clrm, aio, grade\n"
 
 
 
 data_path = "../../log/"
 schl2df = get_schl_dfs()
-# result = query("hyzx", "1106", "12:00", "星期三")
-# print(result)
-# exit()
 
 def parse_log(data_path):
     """
@@ -93,25 +96,23 @@ def parse_log(data_path):
     """
     fnames = listdir(data_path)
     with open("../output/output.csv", 'w', encoding="utf-8") as output:
-        output.write("pid, exe, date, weekday, begintime, endtime, schl, class, teacher, subject, clrm, aio, grade\n")
-        for name in fnames:
-            if ".log" in name:
-                try:
+        with open("../output/error_lines.txt", 'w', encoding="utf-8") as error_f:
+            output.write(get_output_header())
+            for name in fnames:
+                if ".log" in name:
                     schl, clrm, host, date = parse_log_fname(name)
                     weekday, time, pid2exe, error_lines = parse_log_content(data_path + name)
+                    if weekday is None:
+                        print("Unable to process file content %s"%name)
+                        continue
+                    if error_lines != []:
+                        error_f.write(get_error_lines(error_lines))
                     begintime, endtime, class_n, teacher, subject, aio, grade = query(schl, clrm, time, weekday)
                     for pid in pid2exe:
-                        output.write("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n"%(pid, pid2exe[pid], date, weekday, begintime, endtime, schl, class_n, subject, clrm, aio, grade))
-                    if error_lines != []:
-                        print_error_lines(error_lines)
-                except IndexError:
-                    print("IndexError: %s" % name)
-                except UnboundLocalError:
-                    print("UnboundLocalError: %s" % name)
-                except json.JSONDecodeError as e:
-                    print("JSONDecodeError in file %s, error is %s" % (name, e))
-                except TypeError as e:
-                    print("TypeError %s"%e)
+                        output.write("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % (
+                            pid, pid2exe[pid], date, weekday, begintime, endtime, schl, class_n, subject, clrm, aio,
+                            grade))
+
 
 
 parse_log(data_path)
