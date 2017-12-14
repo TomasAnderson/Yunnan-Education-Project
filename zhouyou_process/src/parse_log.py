@@ -46,6 +46,7 @@ def get_error_lines(error_lines):
     lines = []
     for item in error_lines:
         lines.append("In file %s, the error line is \n%s\n\n" % (item[0], item[1]))
+    print('\n'.join(lines))
     return '\n'.join(lines)
 
 def load_school_df(schl):
@@ -109,8 +110,8 @@ def parse_log(data_path):
                         error_f.write(get_error_lines(error_lines))
                     begintime, endtime, class_n, teacher, subject, aio, grade = query(schl, clrm, time, weekday)
                     for pid in pid2exe:
-                        output.write("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n" % (
-                            pid, pid2exe[pid], date, weekday, begintime, endtime, schl, class_n, subject, clrm, aio,
+                        output.write("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s, %s\n" % (
+                            pid, pid2exe[pid], date, weekday, begintime, endtime, schl, class_n, teacher, subject, clrm, aio,
                             grade))
 
 
