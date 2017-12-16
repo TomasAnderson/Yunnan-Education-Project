@@ -1,0 +1,1409 @@
+,weekday,begintime,endtime,schl,class,teacher,subject,clrm,aio,grade
+1,星期一,7:00,7:35,yjzx,33,李明仙,英语,No Info,No info,No info
+2,星期二,7:00,7:35,yjzx,33,黄国锋,政治,No Info,No info,No info
+3,星期三,7:00,7:35,yjzx,33,黄永先,语文,No Info,No info,No info
+4,星期四,7:00,7:35,yjzx,33,丁明光,物理,No Info,No info,No info
+5,星期五,7:00,7:35,yjzx,33,刘碧辉,化学,No Info,No info,No info
+6,星期一,8:05,8:50,yjzx,33,李明仙,英语,No Info,No info,No info
+7,星期二,8:05,8:50,yjzx,33,刘碧辉,化学,No Info,No info,No info
+8,星期三,8:05,8:50,yjzx,33,黄永先,语文,No Info,No info,No info
+9,星期四,8:05,8:50,yjzx,33,丁明光,物理,No Info,No info,No info
+10,星期五,8:05,8:50,yjzx,33,杨军,数学,No Info,No info,No info
+11,星期一,9:00,9:45,yjzx,33,杨军,数学,No Info,No info,No info
+12,星期二,9:00,9:45,yjzx,33,黄永先,语文,No Info,No info,No info
+13,星期三,9:00,9:45,yjzx,33,丁明光,物理,No Info,No info,No info
+14,星期四,9:00,9:45,yjzx,33,李明仙,英语,No Info,No info,No info
+15,星期五,9:00,9:45,yjzx,33,刘碧辉,化学,No Info,No info,No info
+16,星期一,10:00,10:45,yjzx,33,黄国锋,政治,No Info,No info,No info
+17,星期二,10:00,10:45,yjzx,33,丁明光,物理,No Info,No info,No info
+18,星期三,10:00,10:45,yjzx,33,李明仙,英语,No Info,No info,No info
+19,星期四,10:00,10:45,yjzx,33,黄永先,语文,No Info,No info,No info
+20,星期五,10:00,10:45,yjzx,33,李明仙,英语,No Info,No info,No info
+21,星期一,10:55,11:40,yjzx,33,黄永先,班会,No Info,No info,No info
+22,星期二,10:55,11:40,yjzx,33,杨军,数学,No Info,No info,No info
+23,星期三,10:55,11:40,yjzx,33,高明才,历史,No Info,No info,No info
+24,星期四,10:55,11:40,yjzx,33,杨军,数学,No Info,No info,No info
+25,星期五,10:55,11:40,yjzx,33,高明才,历史,No Info,No info,No info
+26,星期一,13:50,14:35,yjzx,33,丁明光,物理,No Info,No info,No info
+27,星期二,13:50,14:35,yjzx,33,杨军,数学,No Info,No info,No info
+28,星期三,13:50,14:35,yjzx,33,李钟国,体育,No Info,No info,No info
+29,星期四,13:50,14:35,yjzx,33,刘碧辉,化学,No Info,No info,No info
+30,星期五,13:50,14:35,yjzx,33,赵东润,音乐,No Info,No info,No info
+31,星期一,14:50,15:35,yjzx,33,黄永先,语文,No Info,No info,No info
+32,星期二,14:50,15:35,yjzx,33,李钟国,体育,No Info,No info,No info
+33,星期三,14:50,15:35,yjzx,33,杨军,数学,No Info,No info,No info
+34,星期四,14:50,15:35,yjzx,33,黄国锋,政治,No Info,No info,No info
+35,星期五,14:50,15:35,yjzx,33,黄永先,语文,No Info,No info,No info
+36,星期一,15:45,16:30,yjzx,33,黄永先,语文,No Info,No info,No info
+37,星期二,15:45,16:30,yjzx,33,李明仙,英语,No Info,No info,No info
+38,星期三,15:45,16:30,yjzx,33,李明仙,英语,No Info,No info,No info
+39,星期四,15:45,16:30,yjzx,33,郭梁玉,美术,No Info,No info,No info
+41,星期一,18:15,19:15,yjzx,33,刘碧辉,化学,No Info,No info,No info
+42,星期二,18:15,19:15,yjzx,33,李明仙,英语,No Info,No info,No info
+43,星期三,18:15,19:15,yjzx,33,黄永先,语文,No Info,No info,No info
+44,星期四,18:15,19:15,yjzx,33,杨军,数学,No Info,No info,No info
+46,星期一,19:25,20:25,yjzx,33,刘碧辉,化学,No Info,No info,No info
+47,星期二,19:25,20:25,yjzx,33,杨军,数学,No Info,No info,No info
+48,星期三,19:25,20:25,yjzx,33,丁明光,物理,No Info,No info,No info
+49,星期四,19:25,20:25,yjzx,33,高明才,历史,No Info,No info,No info
+51,星期一,7:00,7:35,yjzx,34,高明才,历史,No Info,No info,No info
+52,星期二,7:00,7:35,yjzx,34,李玉莲,化学,No Info,No info,No info
+53,星期三,7:00,7:35,yjzx,34,李明仙,英语,No Info,No info,No info
+54,星期四,7:00,7:35,yjzx,34,黄永先,语文,No Info,No info,No info
+55,星期五,7:00,7:35,yjzx,34,丁明光,物理,No Info,No info,No info
+56,星期一,8:05,8:50,yjzx,34,杨雪梅,数学,No Info,No info,No info
+57,星期二,8:05,8:50,yjzx,34,黄永先,语文,No Info,No info,No info
+58,星期三,8:05,8:50,yjzx,34,李明仙,英语,No Info,No info,No info
+59,星期四,8:05,8:50,yjzx,34,黄永先,语文,No Info,No info,No info
+60,星期五,8:05,8:50,yjzx,34,丁明光,物理,No Info,No info,No info
+61,星期一,9:00,9:45,yjzx,34,黄永先,语文,No Info,No info,No info
+62,星期二,9:00,9:45,yjzx,34,李明仙,英语,No Info,No info,No info
+63,星期三,9:00,9:45,yjzx,34,黄永先,语文,No Info,No info,No info
+64,星期四,9:00,9:45,yjzx,34,杨雪梅,数学,No Info,No info,No info
+65,星期五,9:00,9:45,yjzx,34,杨雪梅,数学,No Info,No info,No info
+66,星期一,10:00,10:45,yjzx,34,丁明光,物理,No Info,No info,No info
+67,星期二,10:00,10:45,yjzx,34,杨雪梅,数学,No Info,No info,No info
+68,星期三,10:00,10:45,yjzx,34,丁明光,物理,No Info,No info,No info
+69,星期四,10:00,10:45,yjzx,34,李玉莲,化学,No Info,No info,No info
+70,星期五,10:00,10:45,yjzx,34,黄永先,语文,No Info,No info,No info
+71,星期一,10:55,11:40,yjzx,34,李明仙,班会,No Info,No info,No info
+72,星期二,10:55,11:40,yjzx,34,李玉莲,化学,No Info,No info,No info
+73,星期三,10:55,11:40,yjzx,34,杨雪梅,数学,No Info,No info,No info
+74,星期四,10:55,11:40,yjzx,34,李明仙,英语,No Info,No info,No info
+75,星期五,10:55,11:40,yjzx,34,李明仙,英语,No Info,No info,No info
+76,星期一,13:50,14:35,yjzx,34,郭梁玉,美术,No Info,No info,No info
+77,星期二,13:50,14:35,yjzx,34,黄国锋,政治,No Info,No info,No info
+78,星期三,13:50,14:35,yjzx,34,高明才,历史,No Info,No info,No info
+79,星期四,13:50,14:35,yjzx,34,杨雪梅,数学,No Info,No info,No info
+80,星期五,13:50,14:35,yjzx,34,李志鸿,体育,No Info,No info,No info
+81,星期一,14:50,15:35,yjzx,34,李明仙,英语,No Info,No info,No info
+82,星期二,14:50,15:35,yjzx,34,丁明光,物理,No Info,No info,No info
+83,星期三,14:50,15:35,yjzx,34,黄国锋,政治,No Info,No info,No info
+84,星期四,14:50,15:35,yjzx,34,赵东润,音乐,No Info,No info,No info
+85,星期五,14:50,15:35,yjzx,34,李明仙,英语,No Info,No info,No info
+86,星期一,15:45,16:30,yjzx,34,李志鸿,体育,No Info,No info,No info
+87,星期二,15:45,16:30,yjzx,34,高明才,历史,No Info,No info,No info
+88,星期三,15:45,16:30,yjzx,34,黄永先,语文,No Info,No info,No info
+89,星期四,15:45,16:30,yjzx,34,李玉莲,化学,No Info,No info,No info
+91,星期一,18:15,19:15,yjzx,34,黄国锋,政治,No Info,No info,No info
+92,星期二,18:15,19:15,yjzx,34,杨雪梅,数学,No Info,No info,No info
+93,星期三,18:15,19:15,yjzx,34,丁明光,物理,No Info,No info,No info
+94,星期四,18:15,19:15,yjzx,34,李玉莲,化学,No Info,No info,No info
+96,星期一,19:25,20:25,yjzx,34,杨雪梅,数学,No Info,No info,No info
+97,星期二,19:25,20:25,yjzx,34,李明仙,英语,No Info,No info,No info
+98,星期三,19:25,20:25,yjzx,34,黄永先,语文,No Info,No info,No info
+99,星期四,19:25,20:25,yjzx,34,李玉莲,化学,No Info,No info,No info
+101,星期一,7:00,7:35,yjzx,35,黄国锋,政治,No Info,No info,No info
+102,星期二,7:00,7:35,yjzx,35,李锦明,语文,No Info,No info,No info
+103,星期三,7:00,7:35,yjzx,35,石玉玲,英语,No Info,No info,No info
+104,星期四,7:00,7:35,yjzx,35,李红光,化学,No Info,No info,No info
+105,星期五,7:00,7:35,yjzx,35,高明才,历史,No Info,No info,No info
+106,星期一,8:05,8:50,yjzx,35,李红光,化学,No Info,No info,No info
+107,星期二,8:05,8:50,yjzx,35,杨雪梅,数学,No Info,No info,No info
+108,星期三,8:05,8:50,yjzx,35,李锦明,语文,No Info,No info,No info
+109,星期四,8:05,8:50,yjzx,35,杨雪梅,数学,No Info,No info,No info
+110,星期五,8:05,8:50,yjzx,35,杨雪梅,数学,No Info,No info,No info
+111,星期一,9:00,9:45,yjzx,35,李锦明,语文,No Info,No info,No info
+112,星期二,9:00,9:45,yjzx,35,石玉玲,英语,No Info,No info,No info
+113,星期三,9:00,9:45,yjzx,35,石玉玲,英语,No Info,No info,No info
+114,星期四,9:00,9:45,yjzx,35,石玉玲,英语,No Info,No info,No info
+115,星期五,9:00,9:45,yjzx,35,李锦明,语文,No Info,No info,No info
+116,星期一,10:00,10:45,yjzx,35,杨雪梅,数学,No Info,No info,No info
+117,星期二,10:00,10:45,yjzx,35,李锦明,语文,No Info,No info,No info
+118,星期三,10:00,10:45,yjzx,35,杨雪梅,数学,No Info,No info,No info
+119,星期四,10:00,10:45,yjzx,35,李锦明,语文,No Info,No info,No info
+120,星期五,10:00,10:45,yjzx,35,石玉玲,英语,No Info,No info,No info
+121,星期一,10:55,11:40,yjzx,35,李锦明,班会,No Info,No info,No info
+122,星期二,10:55,11:40,yjzx,35,丁明光,物理,No Info,No info,No info
+123,星期三,10:55,11:40,yjzx,35,石玉玲,英语,No Info,No info,No info
+124,星期四,10:55,11:40,yjzx,35,李红光,化学,No Info,No info,No info
+125,星期五,10:55,11:40,yjzx,35,李志鸿,体育,No Info,No info,No info
+126,星期一,13:50,14:35,yjzx,35,黄国锋,政治,No Info,No info,No info
+127,星期二,13:50,14:35,yjzx,35,李志鸿,体育,No Info,No info,No info
+128,星期三,13:50,14:35,yjzx,35,黄国锋,政治,No Info,No info,No info
+129,星期四,13:50,14:35,yjzx,35,丁明光,物理,No Info,No info,No info
+130,星期五,13:50,14:35,yjzx,35,高明才,历史,No Info,No info,No info
+131,星期一,14:50,15:35,yjzx,35,石玉玲,英语,No Info,No info,No info
+132,星期二,14:50,15:35,yjzx,35,高明才,历史,No Info,No info,No info
+133,星期三,14:50,15:35,yjzx,35,丁明光,物理,No Info,No info,No info
+134,星期四,14:50,15:35,yjzx,35,郭梁玉,美术,No Info,No info,No info
+135,星期五,14:50,15:35,yjzx,35,李锦明,语文,No Info,No info,No info
+136,星期一,15:45,16:30,yjzx,35,丁明光,物理,No Info,No info,No info
+137,星期二,15:45,16:30,yjzx,35,杨雪梅,数学,No Info,No info,No info
+138,星期三,15:45,16:30,yjzx,35,赵东润,音乐,No Info,No info,No info
+139,星期四,15:45,16:30,yjzx,35,李红光,化学,No Info,No info,No info
+141,星期一,18:15,19:15,yjzx,35,杨雪梅,数学,No Info,No info,No info
+142,星期二,18:15,19:15,yjzx,35,石玉玲,英语,No Info,No info,No info
+143,星期三,18:15,19:15,yjzx,35,李锦明,语文,No Info,No info,No info
+144,星期四,18:15,19:15,yjzx,35,丁明光,物理,No Info,No info,No info
+146,星期一,19:25,20:25,yjzx,35,石玉玲,英语,No Info,No info,No info
+147,星期二,19:25,20:25,yjzx,35,杨雪梅,数学,No Info,No info,No info
+148,星期三,19:25,20:25,yjzx,35,李红光,化学,No Info,No info,No info
+149,星期四,19:25,20:25,yjzx,35,丁明光,物理,No Info,No info,No info
+151,星期一,7:00,7:35,yjzx,36,王林,物理,No Info,No info,No info
+152,星期二,7:00,7:35,yjzx,36,石玉玲,英语,No Info,No info,No info
+153,星期三,7:00,7:35,yjzx,36,李雪娇,语文,No Info,No info,No info
+154,星期四,7:00,7:35,yjzx,36,王林,物理,No Info,No info,No info
+155,星期五,7:00,7:35,yjzx,36,李红光,化学,No Info,No info,No info
+156,星期一,8:05,8:50,yjzx,36,李雪娇,语文,No Info,No info,No info
+157,星期二,8:05,8:50,yjzx,36,李雪娇,语文,No Info,No info,No info
+158,星期三,8:05,8:50,yjzx,36,石玉玲,英语,No Info,No info,No info
+159,星期四,8:05,8:50,yjzx,36,石玉玲,英语,No Info,No info,No info
+160,星期五,8:05,8:50,yjzx,36,李红光,化学,No Info,No info,No info
+161,星期一,9:00,9:45,yjzx,36,石玉玲,英语,No Info,No info,No info
+162,星期二,9:00,9:45,yjzx,36,李雪娇,语文,No Info,No info,No info
+163,星期三,9:00,9:45,yjzx,36,沈江,数学,No Info,No info,No info
+164,星期四,9:00,9:45,yjzx,36,李雪娇,语文,No Info,No info,No info
+165,星期五,9:00,9:45,yjzx,36,王林,物理,No Info,No info,No info
+166,星期一,10:00,10:45,yjzx,36,郭梁玉,美术,No Info,No info,No info
+167,星期二,10:00,10:45,yjzx,36,沈江,数学,No Info,No info,No info
+168,星期三,10:00,10:45,yjzx,36,王林,物理,No Info,No info,No info
+169,星期四,10:00,10:45,yjzx,36,沈江,数学,No Info,No info,No info
+170,星期五,10:00,10:45,yjzx,36,沈江,数学,No Info,No info,No info
+171,星期一,10:55,11:40,yjzx,36,李雪娇,班会,No Info,No info,No info
+172,星期二,10:55,11:40,yjzx,36,王林,物理,No Info,No info,No info
+173,星期三,10:55,11:40,yjzx,36,李钟国,体育,No Info,No info,No info
+174,星期四,10:55,11:40,yjzx,36,黄国锋,政治,No Info,No info,No info
+175,星期五,10:55,11:40,yjzx,36,石玉玲,英语,No Info,No info,No info
+176,星期一,13:50,14:35,yjzx,36,李红光,化学,No Info,No info,No info
+177,星期二,13:50,14:35,yjzx,36,赵东润,音乐,No Info,No info,No info
+178,星期三,13:50,14:35,yjzx,36,李雪娇,语文,No Info,No info,No info
+179,星期四,13:50,14:35,yjzx,36,石玉玲,英语,No Info,No info,No info
+180,星期五,13:50,14:35,yjzx,36,黄国锋,政治,No Info,No info,No info
+181,星期一,14:50,15:35,yjzx,36,沈江,数学,No Info,No info,No info
+182,星期二,14:50,15:35,yjzx,36,石玉玲,英语,No Info,No info,No info
+183,星期三,14:50,15:35,yjzx,36,高明才,历史,No Info,No info,No info
+184,星期四,14:50,15:35,yjzx,36,沈江,数学,No Info,No info,No info
+185,星期五,14:50,15:35,yjzx,36,李雪娇,语文,No Info,No info,No info
+186,星期一,15:45,16:30,yjzx,36,李钟国,体育,No Info,No info,No info
+187,星期二,15:45,16:30,yjzx,36,王林,物理,No Info,No info,No info
+188,星期三,15:45,16:30,yjzx,36,李红光,化学,No Info,No info,No info
+189,星期四,15:45,16:30,yjzx,36,高明才,历史,No Info,No info,No info
+191,星期一,18:15,19:15,yjzx,36,石玉玲,英语,No Info,No info,No info
+192,星期二,18:15,19:15,yjzx,36,李雪娇,语文,No Info,No info,No info
+193,星期三,18:15,19:15,yjzx,36,李红光,化学,No Info,No info,No info
+194,星期四,18:15,19:15,yjzx,36,高明才,历史,No Info,No info,No info
+196,星期一,19:25,20:25,yjzx,36,黄国锋,政治,No Info,No info,No info
+197,星期二,19:25,20:25,yjzx,36,石玉玲,英语,No Info,No info,No info
+198,星期三,19:25,20:25,yjzx,36,王林,物理,No Info,No info,No info
+199,星期四,19:25,20:25,yjzx,36,沈江,数学,No Info,No info,No info
+201,星期一,7:00,7:35,yjzx,37,李雪娇,语文,No Info,No info,No info
+202,星期二,7:00,7:35,yjzx,37,张国晖,物理,No Info,No info,No info
+203,星期三,7:00,7:35,yjzx,37,彭晓洁,英语,No Info,No info,No info
+204,星期四,7:00,7:35,yjzx,37,王学丽,历史,No Info,No info,No info
+205,星期五,7:00,7:35,yjzx,37,郭梁玉,美术,No Info,No info,No info
+206,星期一,8:05,8:50,yjzx,37,曹建才,数学,No Info,No info,No info
+207,星期二,8:05,8:50,yjzx,37,张国晖,物理,No Info,No info,No info
+208,星期三,8:05,8:50,yjzx,37,张国晖,物理,No Info,No info,No info
+209,星期四,8:05,8:50,yjzx,37,李雪娇,语文,No Info,No info,No info
+210,星期五,8:05,8:50,yjzx,37,秦丽琼,化学,No Info,No info,No info
+211,星期一,9:00,9:45,yjzx,37,李雪娇,语文,No Info,No info,No info
+212,星期二,9:00,9:45,yjzx,37,曹建才,数学,No Info,No info,No info
+213,星期三,9:00,9:45,yjzx,37,彭晓洁,英语,No Info,No info,No info
+214,星期四,9:00,9:45,yjzx,37,彭晓洁,英语,No Info,No info,No info
+215,星期五,9:00,9:45,yjzx,37,彭晓洁,英语,No Info,No info,No info
+216,星期一,10:00,10:45,yjzx,37,彭晓洁,英语,No Info,No info,No info
+217,星期二,10:00,10:45,yjzx,37,李雪娇,语文,No Info,No info,No info
+218,星期三,10:00,10:45,yjzx,37,李雪娇,语文,No Info,No info,No info
+219,星期四,10:00,10:45,yjzx,37,曹建才,数学,No Info,No info,No info
+220,星期五,10:00,10:45,yjzx,37,李雪娇,语文,No Info,No info,No info
+221,星期一,10:55,11:40,yjzx,37,张国晖,班会,No Info,No info,No info
+222,星期二,10:55,11:40,yjzx,37,赵东润,音乐,No Info,No info,No info
+223,星期三,10:55,11:40,yjzx,37,奎明华,体育,No Info,No info,No info
+224,星期四,10:55,11:40,yjzx,37,秦丽琼,化学,No Info,No info,No info
+225,星期五,10:55,11:40,yjzx,37,曹建才,数学,No Info,No info,No info
+226,星期一,13:50,14:35,yjzx,37,王学丽,历史,No Info,No info,No info
+227,星期二,13:50,14:35,yjzx,37,彭晓洁,英语,No Info,No info,No info
+228,星期三,13:50,14:35,yjzx,37,秦丽琼,化学,No Info,No info,No info
+229,星期四,13:50,14:35,yjzx,37,奎明华,体育,No Info,No info,No info
+230,星期五,13:50,14:35,yjzx,37,郭梁玉,美术,No Info,No info,No info
+231,星期一,14:50,15:35,yjzx,37,彭晓洁,英语,No Info,No info,No info
+232,星期二,14:50,15:35,yjzx,37,黄国锋,政治,No Info,No info,No info
+233,星期三,14:50,15:35,yjzx,37,王学丽,历史,No Info,No info,No info
+234,星期四,14:50,15:35,yjzx,37,李雪娇,语文,No Info,No info,No info
+235,星期五,14:50,15:35,yjzx,37,张国晖,物理,No Info,No info,No info
+236,星期一,15:45,16:30,yjzx,37,张国晖,物理,No Info,No info,No info
+237,星期二,15:45,16:30,yjzx,37,曹建才,数学,No Info,No info,No info
+238,星期三,15:45,16:30,yjzx,37,曹建才,数学,No Info,No info,No info
+239,星期四,15:45,16:30,yjzx,37,黄国锋,政治,No Info,No info,No info
+241,星期一,18:15,19:15,yjzx,37,秦丽琼,化学,No Info,No info,No info
+242,星期二,18:15,19:15,yjzx,37,黄国锋,政治,No Info,No info,No info
+243,星期三,18:15,19:15,yjzx,37,赵东润,音乐,No Info,No info,No info
+244,星期四,18:15,19:15,yjzx,37,彭晓洁,英语,No Info,No info,No info
+246,星期一,19:25,20:25,yjzx,37,彭晓洁,英语,No Info,No info,No info
+247,星期二,19:25,20:25,yjzx,37,李雪娇,语文,No Info,No info,No info
+248,星期三,19:25,20:25,yjzx,37,秦丽琼,化学,No Info,No info,No info
+249,星期四,19:25,20:25,yjzx,37,曹建才,数学,No Info,No info,No info
+251,星期一,7:00,7:35,yjzx,38,彭晓洁,英语,No Info,No info,No info
+252,星期二,7:00,7:35,yjzx,38,秦丽琼,化学,No Info,No info,No info
+253,星期三,7:00,7:35,yjzx,38,周宝,语文,No Info,No info,No info
+254,星期四,7:00,7:35,yjzx,38,赵东润,音乐,No Info,No info,No info
+255,星期五,7:00,7:35,yjzx,38,李明,政治,No Info,No info,No info
+256,星期一,8:05,8:50,yjzx,38,王学丽,历史,No Info,No info,No info
+257,星期二,8:05,8:50,yjzx,38,周宝,语文,No Info,No info,No info
+258,星期三,8:05,8:50,yjzx,38,周宝,语文,No Info,No info,No info
+259,星期四,8:05,8:50,yjzx,38,周宝,语文,No Info,No info,No info
+260,星期五,8:05,8:50,yjzx,38,李明,政治,No Info,No info,No info
+261,星期一,9:00,9:45,yjzx,38,彭晓洁,英语,No Info,No info,No info
+262,星期二,9:00,9:45,yjzx,38,张国晖,物理,No Info,No info,No info
+263,星期三,9:00,9:45,yjzx,38,曹建才,数学,No Info,No info,No info
+264,星期四,9:00,9:45,yjzx,38,曹建才,数学,No Info,No info,No info
+265,星期五,9:00,9:45,yjzx,38,周宝,语文,No Info,No info,No info
+266,星期一,10:00,10:45,yjzx,38,秦丽琼,化学,No Info,No info,No info
+267,星期二,10:00,10:45,yjzx,38,曹建才,数学,No Info,No info,No info
+268,星期三,10:00,10:45,yjzx,38,彭晓洁,英语,No Info,No info,No info
+269,星期四,10:00,10:45,yjzx,38,张国晖,物理,No Info,No info,No info
+270,星期五,10:00,10:45,yjzx,38,曹建才,数学,No Info,No info,No info
+271,星期一,10:55,11:40,yjzx,38,曹建才,班会,No Info,No info,No info
+272,星期二,10:55,11:40,yjzx,38,彭晓洁,英语,No Info,No info,No info
+273,星期三,10:55,11:40,yjzx,38,李明,政治,No Info,No info,No info
+274,星期四,10:55,11:40,yjzx,38,彭晓洁,英语,No Info,No info,No info
+275,星期五,10:55,11:40,yjzx,38,李钟国,体育,No Info,No info,No info
+276,星期一,13:50,14:35,yjzx,38,李钟国,体育,No Info,No info,No info
+277,星期二,13:50,14:35,yjzx,38,周宝,语文,No Info,No info,No info
+278,星期三,13:50,14:35,yjzx,38,郭梁玉,美术,No Info,No info,No info
+279,星期四,13:50,14:35,yjzx,38,曹建才,数学,No Info,No info,No info
+280,星期五,13:50,14:35,yjzx,38,张国晖,物理,No Info,No info,No info
+281,星期一,14:50,15:35,yjzx,38,曹建才,数学,No Info,No info,No info
+282,星期二,14:50,15:35,yjzx,38,王学丽,历史,No Info,No info,No info
+283,星期三,14:50,15:35,yjzx,38,张国晖,物理,No Info,No info,No info
+284,星期四,14:50,15:35,yjzx,38,彭晓洁,英语,No Info,No info,No info
+285,星期五,14:50,15:35,yjzx,38,赵东润,音乐,No Info,No info,No info
+286,星期一,15:45,16:30,yjzx,38,周宝,语文,No Info,No info,No info
+287,星期二,15:45,16:30,yjzx,38,秦丽琼,化学,No Info,No info,No info
+288,星期三,15:45,16:30,yjzx,38,彭晓洁,英语,No Info,No info,No info
+289,星期四,15:45,16:30,yjzx,38,秦丽琼,化学,No Info,No info,No info
+291,星期一,18:15,19:15,yjzx,38,彭晓洁,英语,No Info,No info,No info
+292,星期二,18:15,19:15,yjzx,38,周宝,语文,No Info,No info,No info
+293,星期三,18:15,19:15,yjzx,38,秦丽琼,化学,No Info,No info,No info
+294,星期四,18:15,19:15,yjzx,38,曹建才,数学,No Info,No info,No info
+296,星期一,19:25,20:25,yjzx,38,张国晖,物理,No Info,No info,No info
+297,星期二,19:25,20:25,yjzx,38,周宝,语文,No Info,No info,No info
+298,星期三,19:25,20:25,yjzx,38,王学丽,历史,No Info,No info,No info
+299,星期四,19:25,20:25,yjzx,38,彭晓洁,英语,No Info,No info,No info
+301,星期一,7:00,7:35,yjzx,39,蒲能,语文,No Info,No info,No info
+302,星期二,7:00,7:35,yjzx,39,李明,政治,No Info,No info,No info
+303,星期三,7:00,7:35,yjzx,39,段丽芬,英语,No Info,No info,No info
+304,星期四,7:00,7:35,yjzx,39,刘清,物理,No Info,No info,No info
+305,星期五,7:00,7:35,yjzx,39,秦丽琼,化学,No Info,No info,No info
+306,星期一,8:05,8:50,yjzx,39,蒲能,语文,No Info,No info,No info
+307,星期二,8:05,8:50,yjzx,39,蒲能,语文,No Info,No info,No info
+308,星期三,8:05,8:50,yjzx,39,段丽芬,英语,No Info,No info,No info
+309,星期四,8:05,8:50,yjzx,39,秦丽琼,化学,No Info,No info,No info
+310,星期五,8:05,8:50,yjzx,39,段丽芬,英语,No Info,No info,No info
+311,星期一,9:00,9:45,yjzx,39,奎云军,数学,No Info,No info,No info
+312,星期二,9:00,9:45,yjzx,39,奎云军,数学,No Info,No info,No info
+313,星期三,9:00,9:45,yjzx,39,刘清,物理,No Info,No info,No info
+314,星期四,9:00,9:45,yjzx,39,蒲能,语文,No Info,No info,No info
+315,星期五,9:00,9:45,yjzx,39,刘清,物理,No Info,No info,No info
+316,星期一,10:00,10:45,yjzx,39,段丽芬,英语,No Info,No info,No info
+317,星期二,10:00,10:45,yjzx,39,刘清,物理,No Info,No info,No info
+318,星期三,10:00,10:45,yjzx,39,蒲能,语文,No Info,No info,No info
+319,星期四,10:00,10:45,yjzx,39,奎云军,数学,No Info,No info,No info
+320,星期五,10:00,10:45,yjzx,39,奎云军,数学,No Info,No info,No info
+321,星期一,10:55,11:40,yjzx,39,蒲能,班会,No Info,No info,No info
+322,星期二,10:55,11:40,yjzx,39,段丽芬,英语,No Info,No info,No info
+323,星期三,10:55,11:40,yjzx,39,秦丽琼,化学,No Info,No info,No info
+324,星期四,10:55,11:40,yjzx,39,王学丽,历史,No Info,No info,No info
+325,星期五,10:55,11:40,yjzx,39,李明,政治,No Info,No info,No info
+326,星期一,13:50,14:35,yjzx,39,刘清,物理,No Info,No info,No info
+327,星期二,13:50,14:35,yjzx,39,段丽芬,英语,No Info,No info,No info
+328,星期三,13:50,14:35,yjzx,39,王学丽,历史,No Info,No info,No info
+329,星期四,13:50,14:35,yjzx,39,郭梁玉,美术,No Info,No info,No info
+330,星期五,13:50,14:35,yjzx,39,秦丽琼,化学,No Info,No info,No info
+331,星期一,14:50,15:35,yjzx,39,李明,政治,No Info,No info,No info
+332,星期二,14:50,15:35,yjzx,39,奎云军,数学,No Info,No info,No info
+333,星期三,14:50,15:35,yjzx,39,奎云军,数学,No Info,No info,No info
+334,星期四,14:50,15:35,yjzx,39,段丽芬,英语,No Info,No info,No info
+335,星期五,14:50,15:35,yjzx,39,蒲能,语文,No Info,No info,No info
+336,星期一,15:45,16:30,yjzx,39,赵东润,音乐,No Info,No info,No info
+337,星期二,15:45,16:30,yjzx,39,蒲能,语文,No Info,No info,No info
+338,星期三,15:45,16:30,yjzx,39,李鸿,体育,No Info,No info,No info
+339,星期四,15:45,16:30,yjzx,39,李鸿,体育,No Info,No info,No info
+341,星期一,18:15,19:15,yjzx,39,段丽芬,英语,No Info,No info,No info
+342,星期二,18:15,19:15,yjzx,39,段丽芬,英语,No Info,No info,No info
+343,星期三,18:15,19:15,yjzx,39,王学丽,历史,No Info,No info,No info
+344,星期四,18:15,19:15,yjzx,39,奎云军,数学,No Info,No info,No info
+346,星期一,19:25,20:25,yjzx,39,秦丽琼,化学,No Info,No info,No info
+347,星期二,19:25,20:25,yjzx,39,蒲能,语文,No Info,No info,No info
+348,星期三,19:25,20:25,yjzx,39,刘清,物理,No Info,No info,No info
+349,星期四,19:25,20:25,yjzx,39,奎云军,数学,No Info,No info,No info
+351,星期一,7:00,7:35,yjzx,40,王学丽,历史,No Info,No info,No info
+352,星期二,7:00,7:35,yjzx,40,段丽芬,英语,No Info,No info,No info
+353,星期三,7:00,7:35,yjzx,40,郭梁玉,美术,No Info,No info,No info
+354,星期四,7:00,7:35,yjzx,40,郭文华,化学,No Info,No info,No info
+355,星期五,7:00,7:35,yjzx,40,蒲能,语文,No Info,No info,No info
+356,星期一,8:05,8:50,yjzx,40,张国晖,物理,No Info,No info,No info
+357,星期二,8:05,8:50,yjzx,40,段丽芬,英语,No Info,No info,No info
+358,星期三,8:05,8:50,yjzx,40,沈江,数学,No Info,No info,No info
+359,星期四,8:05,8:50,yjzx,40,段丽芬,英语,No Info,No info,No info
+360,星期五,8:05,8:50,yjzx,40,蒲能,语文,No Info,No info,No info
+361,星期一,9:00,9:45,yjzx,40,沈江,数学,No Info,No info,No info
+362,星期二,9:00,9:45,yjzx,40,沈江,数学,No Info,No info,No info
+363,星期三,9:00,9:45,yjzx,40,段丽芬,英语,No Info,No info,No info
+364,星期四,9:00,9:45,yjzx,40,沈江,数学,No Info,No info,No info
+365,星期五,9:00,9:45,yjzx,40,张国晖,物理,No Info,No info,No info
+366,星期一,10:00,10:45,yjzx,40,郭文华,化学,No Info,No info,No info
+367,星期二,10:00,10:45,yjzx,40,蒲能,语文,No Info,No info,No info
+368,星期三,10:00,10:45,yjzx,40,沈江,数学,No Info,No info,No info
+369,星期四,10:00,10:45,yjzx,40,蒲能,语文,No Info,No info,No info
+370,星期五,10:00,10:45,yjzx,40,段丽芬,英语,No Info,No info,No info
+371,星期一,10:55,11:40,yjzx,40,沈江,班会,No Info,No info,No info
+372,星期二,10:55,11:40,yjzx,40,李鸿,体育,No Info,No info,No info
+373,星期三,10:55,11:40,yjzx,40,蒲能,语文,No Info,No info,No info
+374,星期四,10:55,11:40,yjzx,40,郭文华,化学,No Info,No info,No info
+375,星期五,10:55,11:40,yjzx,40,李鸿,体育,No Info,No info,No info
+376,星期一,13:50,14:35,yjzx,40,蒲能,语文,No Info,No info,No info
+377,星期二,13:50,14:35,yjzx,40,李明,政治,No Info,No info,No info
+378,星期三,13:50,14:35,yjzx,40,张国晖,物理,No Info,No info,No info
+379,星期四,13:50,14:35,yjzx,40,蒲能,语文,No Info,No info,No info
+380,星期五,13:50,14:35,yjzx,40,郭文华,化学,No Info,No info,No info
+381,星期一,14:50,15:35,yjzx,40,段丽芬,英语,No Info,No info,No info
+382,星期二,14:50,15:35,yjzx,40,张国晖,物理,No Info,No info,No info
+383,星期三,14:50,15:35,yjzx,40,赵东润,音乐,No Info,No info,No info
+384,星期四,14:50,15:35,yjzx,40,李明,政治,No Info,No info,No info
+385,星期五,14:50,15:35,yjzx,40,沈江,数学,No Info,No info,No info
+386,星期一,15:45,16:30,yjzx,40,郭梁玉,美术,No Info,No info,No info
+387,星期二,15:45,16:30,yjzx,40,王学丽,历史,No Info,No info,No info
+388,星期三,15:45,16:30,yjzx,40,段丽芬,英语,No Info,No info,No info
+389,星期四,15:45,16:30,yjzx,40,王学丽,历史,No Info,No info,No info
+391,星期一,18:15,19:15,yjzx,40,张国晖,物理,No Info,No info,No info
+392,星期二,18:15,19:15,yjzx,40,蒲能,语文,No Info,No info,No info
+393,星期三,18:15,19:15,yjzx,40,郭文华,化学,No Info,No info,No info
+394,星期四,18:15,19:15,yjzx,40,沈江,数学,No Info,No info,No info
+396,星期一,19:25,20:25,yjzx,40,段丽芬,英语,No Info,No info,No info
+397,星期二,19:25,20:25,yjzx,40,段丽芬,英语,No Info,No info,No info
+398,星期三,19:25,20:25,yjzx,40,李明,政治,No Info,No info,No info
+399,星期四,19:25,20:25,yjzx,40,段丽芬,英语,No Info,No info,No info
+401,星期一,7:00,7:35,yjzx,41,李朝秀,语文,No Info,No info,No info
+402,星期二,7:00,7:35,yjzx,41,奎永胜,政治,No Info,No info,No info
+403,星期三,7:00,7:35,yjzx,41,郭文华,化学,No Info,No info,No info
+404,星期四,7:00,7:35,yjzx,41,赵文香,英语,No Info,No info,No info
+405,星期五,7:00,7:35,yjzx,41,刘清,物理,No Info,No info,No info
+406,星期一,8:05,8:50,yjzx,41,李朝秀,语文,No Info,No info,No info
+407,星期二,8:05,8:50,yjzx,41,赵文香,英语,No Info,No info,No info
+408,星期三,8:05,8:50,yjzx,41,李朝秀,语文,No Info,No info,No info
+409,星期四,8:05,8:50,yjzx,41,李朝秀,语文,No Info,No info,No info
+410,星期五,8:05,8:50,yjzx,41,赵文香,英语,No Info,No info,No info
+411,星期一,9:00,9:45,yjzx,41,高明才,历史,No Info,No info,No info
+412,星期二,9:00,9:45,yjzx,41,李朝秀,语文,No Info,No info,No info
+413,星期三,9:00,9:45,yjzx,41,杨军,数学,No Info,No info,No info
+414,星期四,9:00,9:45,yjzx,41,杨军,数学,No Info,No info,No info
+415,星期五,9:00,9:45,yjzx,41,奎永胜,政治,No Info,No info,No info
+416,星期一,10:00,10:45,yjzx,41,杨军,数学,No Info,No info,No info
+417,星期二,10:00,10:45,yjzx,41,郭文华,化学,No Info,No info,No info
+418,星期三,10:00,10:45,yjzx,41,赵文香,英语,No Info,No info,No info
+419,星期四,10:00,10:45,yjzx,41,赵文香,英语,No Info,No info,No info
+420,星期五,10:00,10:45,yjzx,41,郭文华,化学,No Info,No info,No info
+421,星期一,10:55,11:40,yjzx,41,李朝秀,班会,No Info,No info,No info
+422,星期二,10:55,11:40,yjzx,41,刘清,物理,No Info,No info,No info
+423,星期三,10:55,11:40,yjzx,41,刘清,物理,No Info,No info,No info
+424,星期四,10:55,11:40,yjzx,41,奎尚春,体育,No Info,No info,No info
+425,星期五,10:55,11:40,yjzx,41,杨军,数学,No Info,No info,No info
+426,星期一,13:50,14:35,yjzx,41,李朝秀,语文,No Info,No info,No info
+427,星期二,13:50,14:35,yjzx,41,赵文香,英语,No Info,No info,No info
+428,星期三,13:50,14:35,yjzx,41,刘清,物理,No Info,No info,No info
+429,星期四,13:50,14:35,yjzx,41,高明才,历史,No Info,No info,No info
+430,星期五,13:50,14:35,yjzx,41,刘清,物理,No Info,No info,No info
+431,星期一,14:50,15:35,yjzx,41,杨军,数学,No Info,No info,No info
+432,星期二,14:50,15:35,yjzx,41,郭梁玉,美术,No Info,No info,No info
+433,星期三,14:50,15:35,yjzx,41,郭文华,化学,No Info,No info,No info
+434,星期四,14:50,15:35,yjzx,41,杨军,数学,No Info,No info,No info
+435,星期五,14:50,15:35,yjzx,41,李朝秀,语文,No Info,No info,No info
+436,星期一,15:45,16:30,yjzx,41,赵文香,英语,No Info,No info,No info
+437,星期二,15:45,16:30,yjzx,41,奎永胜,政治,No Info,No info,No info
+438,星期三,15:45,16:30,yjzx,41,奎尚春,体育,No Info,No info,No info
+439,星期四,15:45,16:30,yjzx,41,赵东润,音乐,No Info,No info,No info
+441,星期一,18:15,19:15,yjzx,41,赵文香,英语,No Info,No info,No info
+442,星期二,18:15,19:15,yjzx,41,杨军,数学,No Info,No info,No info
+443,星期三,18:15,19:15,yjzx,41,李朝秀,语文,No Info,No info,No info
+444,星期四,18:15,19:15,yjzx,41,赵文香,英语,No Info,No info,No info
+446,星期一,19:25,20:25,yjzx,41,刘清,物理,No Info,No info,No info
+447,星期二,19:25,20:25,yjzx,41,高明才,历史,No Info,No info,No info
+448,星期三,19:25,20:25,yjzx,41,郭文华,化学,No Info,No info,No info
+449,星期四,19:25,20:25,yjzx,41,杨军,数学,No Info,No info,No info
+451,星期一,7:00,7:35,yjzx,42,奎永胜,政治,No Info,No info,No info
+452,星期二,7:00,7:35,yjzx,42,赵婷,历史,No Info,No info,No info
+453,星期三,7:00,7:35,yjzx,42,赵东润,音乐,No Info,No info,No info
+454,星期四,7:00,7:35,yjzx,42,李朝秀,语文,No Info,No info,No info
+455,星期五,7:00,7:35,yjzx,42,赵文香,英语,No Info,No info,No info
+456,星期一,8:05,8:50,yjzx,42,李富,数学,No Info,No info,No info
+457,星期二,8:05,8:50,yjzx,42,李朝秀,语文,No Info,No info,No info
+458,星期三,8:05,8:50,yjzx,42,赵文香,英语,No Info,No info,No info
+459,星期四,8:05,8:50,yjzx,42,赵文香,英语,No Info,No info,No info
+460,星期五,8:05,8:50,yjzx,42,刘清,物理,No Info,No info,No info
+461,星期一,9:00,9:45,yjzx,42,李朝秀,语文,No Info,No info,No info
+462,星期二,9:00,9:45,yjzx,42,李富,数学,No Info,No info,No info
+463,星期三,9:00,9:45,yjzx,42,李朝秀,语文,No Info,No info,No info
+464,星期四,9:00,9:45,yjzx,42,刘清,物理,No Info,No info,No info
+465,星期五,9:00,9:45,yjzx,42,赵文香,英语,No Info,No info,No info
+466,星期一,10:00,10:45,yjzx,42,赵文香,英语,No Info,No info,No info
+467,星期二,10:00,10:45,yjzx,42,赵文香,英语,No Info,No info,No info
+468,星期三,10:00,10:45,yjzx,42,李富,数学,No Info,No info,No info
+469,星期四,10:00,10:45,yjzx,42,李朝秀,语文,No Info,No info,No info
+470,星期五,10:00,10:45,yjzx,42,李富,数学,No Info,No info,No info
+471,星期一,10:55,11:40,yjzx,42,李富,班会,No Info,No info,No info
+472,星期二,10:55,11:40,yjzx,42,奎永胜,政治,No Info,No info,No info
+473,星期三,10:55,11:40,yjzx,42,郭文华,化学,No Info,No info,No info
+474,星期四,10:55,11:40,yjzx,42,李富,数学,No Info,No info,No info
+475,星期五,10:55,11:40,yjzx,42,郭梁玉,美术,No Info,No info,No info
+476,星期一,13:50,14:35,yjzx,42,赵东润,音乐,No Info,No info,No info
+477,星期二,13:50,14:35,yjzx,42,郭文华,化学,No Info,No info,No info
+478,星期三,13:50,14:35,yjzx,42,赵婷,历史,No Info,No info,No info
+479,星期四,13:50,14:35,yjzx,42,赵文香,英语,No Info,No info,No info
+480,星期五,13:50,14:35,yjzx,42,李朝秀,语文,No Info,No info,No info
+481,星期一,14:50,15:35,yjzx,42,郭文华,化学,No Info,No info,No info
+482,星期二,14:50,15:35,yjzx,42,刘清,物理,No Info,No info,No info
+483,星期三,14:50,15:35,yjzx,42,奎永胜,政治,No Info,No info,No info
+484,星期四,14:50,15:35,yjzx,42,赵婷,历史,No Info,No info,No info
+485,星期五,14:50,15:35,yjzx,42,李富,数学,No Info,No info,No info
+486,星期一,15:45,16:30,yjzx,42,刘清,物理,No Info,No info,No info
+487,星期二,15:45,16:30,yjzx,42,奎尚春,体育,No Info,No info,No info
+488,星期三,15:45,16:30,yjzx,42,李朝秀,语文,No Info,No info,No info
+489,星期四,15:45,16:30,yjzx,42,奎尚春,体育,No Info,No info,No info
+491,星期一,18:15,19:15,yjzx,42,刘清,物理,No Info,No info,No info
+492,星期二,18:15,19:15,yjzx,42,郭文华,化学,No Info,No info,No info
+493,星期三,18:15,19:15,yjzx,42,刘清,物理,No Info,No info,No info
+494,星期四,18:15,19:15,yjzx,42,李富,数学,No Info,No info,No info
+496,星期一,19:25,20:25,yjzx,42,赵文香,英语,No Info,No info,No info
+497,星期二,19:25,20:25,yjzx,42,郭文华,化学,No Info,No info,No info
+498,星期三,19:25,20:25,yjzx,42,李朝秀,语文,No Info,No info,No info
+499,星期四,19:25,20:25,yjzx,42,赵文香,英语,No Info,No info,No info
+501,星期一,7:00,7:35,yjzx,43,黄忠,语文,201,一体机,8
+502,星期二,7:00,7:35,yjzx,43,余惠芳,英语,201,一体机,8
+503,星期三,7:00,7:35,yjzx,43,黄忠,历史,201,一体机,8
+504,星期四,7:00,7:35,yjzx,43,郭浩,物理,201,一体机,8
+505,星期五,7:00,7:35,yjzx,43,徐柱花,地理,201,一体机,8
+506,星期一,8:05,8:50,yjzx,43,黄忠,语文,201,一体机,8
+507,星期二,8:05,8:50,yjzx,43,余惠芳,英语,201,一体机,8
+508,星期三,8:05,8:50,yjzx,43,黄忠,语文,201,一体机,8
+509,星期四,8:05,8:50,yjzx,43,郭浩,物理,201,一体机,8
+510,星期五,8:05,8:50,yjzx,43,黄忠,语文,201,一体机,8
+511,星期一,9:00,9:45,yjzx,43,余惠芳,英语,201,一体机,8
+512,星期二,9:00,9:45,yjzx,43,杨德珍,数学,201,一体机,8
+513,星期三,9:00,9:45,yjzx,43,余惠芳,英语,201,一体机,8
+514,星期四,9:00,9:45,yjzx,43,黄忠,语文,201,一体机,8
+515,星期五,9:00,9:45,yjzx,43,余惠芳,英语,201,一体机,8
+516,星期一,10:00,10:45,yjzx,43,杨德珍,数学,201,一体机,8
+517,星期二,10:00,10:45,yjzx,43,郭浩,物理,201,一体机,8
+518,星期三,10:00,10:45,yjzx,43,杨德珍,数学,201,一体机,8
+519,星期四,10:00,10:45,yjzx,43,杨德珍,数学,201,一体机,8
+520,星期五,10:00,10:45,yjzx,43,杨德珍,数学,201,一体机,8
+521,星期一,10:55,11:40,yjzx,43,李红光,班会,201,一体机,8
+522,星期二,10:55,11:40,yjzx,43,奎明华,体育,201,一体机,8
+523,星期三,10:55,11:40,yjzx,43,谢玉梅,生物,201,一体机,8
+524,星期四,10:55,11:40,yjzx,43,黄忠,历史,201,一体机,8
+525,星期五,10:55,11:40,yjzx,43,王晨昭,政治,201,一体机,8
+526,星期一,13:50,14:35,yjzx,43,余惠芳,英语,201,一体机,8
+527,星期二,13:50,14:35,yjzx,43,徐柱花,地理,201,一体机,8
+528,星期三,13:50,14:35,yjzx,43,黄忠,历史,201,一体机,8
+529,星期四,13:50,14:35,yjzx,43,自丽华,美术,201,一体机,8
+530,星期五,13:50,14:35,yjzx,43,谢玉梅,生物,201,一体机,8
+531,星期一,14:50,15:35,yjzx,43,王晨昭,政治,201,一体机,8
+532,星期二,14:50,15:35,yjzx,43,杨德珍,数学,201,一体机,8
+533,星期三,14:50,15:35,yjzx,43,奎明华,体育,201,一体机,8
+534,星期四,14:50,15:35,yjzx,43,王武,信息,201,一体机,8
+535,星期五,14:50,15:35,yjzx,43,徐柱花,地理,201,一体机,8
+536,星期一,15:45,16:30,yjzx,43,郭浩,物理,201,一体机,8
+537,星期二,15:45,16:30,yjzx,43,黄忠,语文,201,一体机,8
+538,星期三,15:45,16:30,yjzx,43,王晓溪,音乐,201,一体机,8
+539,星期四,15:45,16:30,yjzx,43,余惠芳,英语,201,一体机,8
+541,星期一,18:15,19:15,yjzx,43,杨德珍,数学,201,一体机,8
+542,星期二,18:15,19:15,yjzx,43,郭浩,物理,201,一体机,8
+543,星期三,18:15,19:15,yjzx,43,余惠芳,英语,201,一体机,8
+544,星期四,18:15,19:15,yjzx,43,王晨昭,政治,201,一体机,8
+546,星期一,19:25,20:25,yjzx,43,余惠芳,英语,201,一体机,8
+547,星期二,19:25,20:25,yjzx,43,黄忠,语文,201,一体机,8
+548,星期三,19:25,20:25,yjzx,43,杨德珍,数学,201,一体机,8
+549,星期四,19:25,20:25,yjzx,43,谢玉梅,生物,201,一体机,8
+551,星期一,7:00,7:35,yjzx,44,王晨昭,政治,301,一体机,8
+552,星期二,7:00,7:35,yjzx,44,师玉梅,英语,301,一体机,8
+553,星期三,7:00,7:35,yjzx,44,徐柱花,地理,301,一体机,8
+554,星期四,7:00,7:35,yjzx,44,蔡聪文,语文,301,一体机,8
+555,星期五,7:00,7:35,yjzx,44,姚志华,物理,301,一体机,8
+556,星期一,8:05,8:50,yjzx,44,师玉梅,英语,301,一体机,8
+557,星期二,8:05,8:50,yjzx,44,谢玉梅,生物,301,一体机,8
+558,星期三,8:05,8:50,yjzx,44,蔡聪文,语文,301,一体机,8
+559,星期四,8:05,8:50,yjzx,44,徐柱花,地理,301,一体机,8
+560,星期五,8:05,8:50,yjzx,44,师玉梅,英语,301,一体机,8
+561,星期一,9:00,9:45,yjzx,44,蔡聪文,语文,301,一体机,8
+562,星期二,9:00,9:45,yjzx,44,蔡聪文,语文,301,一体机,8
+563,星期三,9:00,9:45,yjzx,44,杨跃琼,数学,301,一体机,8
+564,星期四,9:00,9:45,yjzx,44,王晨昭,政治,301,一体机,8
+565,星期五,9:00,9:45,yjzx,44,蔡聪文,语文,301,一体机,8
+566,星期一,10:00,10:45,yjzx,44,杨跃琼,数学,301,一体机,8
+567,星期二,10:00,10:45,yjzx,44,师玉梅,英语,301,一体机,8
+568,星期三,10:00,10:45,yjzx,44,师玉梅,英语,301,一体机,8
+569,星期四,10:00,10:45,yjzx,44,杨跃琼,数学,301,一体机,8
+570,星期五,10:00,10:45,yjzx,44,杨跃琼,数学,301,一体机,8
+571,星期一,10:55,11:40,yjzx,44,王晨昭,班会,301,一体机,8
+572,星期二,10:55,11:40,yjzx,44,杨跃琼,数学,301,一体机,8
+573,星期三,10:55,11:40,yjzx,44,杨枝成,历史,301,一体机,8
+574,星期四,10:55,11:40,yjzx,44,姚志华,物理,301,一体机,8
+575,星期五,10:55,11:40,yjzx,44,王武,信息,301,一体机,8
+576,星期一,13:50,14:35,yjzx,44,自丽华,美术,301,一体机,8
+577,星期二,13:50,14:35,yjzx,44,杨跃琼,数学,301,一体机,8
+578,星期三,13:50,14:35,yjzx,44,姚志华,物理,301,一体机,8
+579,星期四,13:50,14:35,yjzx,44,蔡聪文,语文,301,一体机,8
+580,星期五,13:50,14:35,yjzx,44,杨枝成,历史,301,一体机,8
+581,星期一,14:50,15:35,yjzx,44,姚志华,物理,301,一体机,8
+582,星期二,14:50,15:35,yjzx,44,徐柱花,地理,301,一体机,8
+583,星期三,14:50,15:35,yjzx,44,师玉梅,英语,301,一体机,8
+584,星期四,14:50,15:35,yjzx,44,谢玉梅,生物,301,一体机,8
+585,星期五,14:50,15:35,yjzx,44,王晨昭,政治,301,一体机,8
+586,星期一,15:45,16:30,yjzx,44,奎明华,体育,301,一体机,8
+587,星期二,15:45,16:30,yjzx,44,王晓溪,音乐,301,一体机,8
+588,星期三,15:45,16:30,yjzx,44,奎明华,体育,301,一体机,8
+589,星期四,15:45,16:30,yjzx,44,师玉梅,英语,301,一体机,8
+591,星期一,18:15,19:15,yjzx,44,杨跃琼,数学,301,一体机,8
+592,星期二,18:15,19:15,yjzx,44,杨枝成,历史,301,一体机,8
+593,星期三,18:15,19:15,yjzx,44,杨跃琼,数学,301,一体机,8
+594,星期四,18:15,19:15,yjzx,44,蔡聪文,语文,301,一体机,8
+596,星期一,19:25,20:25,yjzx,44,师玉梅,英语,301,一体机,8
+597,星期二,19:25,20:25,yjzx,44,谢玉梅,生物,301,一体机,8
+598,星期三,19:25,20:25,yjzx,44,师玉梅,英语,301,一体机,8
+599,星期四,19:25,20:25,yjzx,44,姚志华,物理,301,一体机,8
+601,星期一,7:00,7:35,yjzx,45,童进娟,语文,No Info,No info,No info
+602,星期二,7:00,7:35,yjzx,45,杨枝成,历史,No Info,No info,No info
+603,星期三,7:00,7:35,yjzx,45,姚志华,物理,No Info,No info,No info
+604,星期四,7:00,7:35,yjzx,45,龚明月,英语,No Info,No info,No info
+605,星期五,7:00,7:35,yjzx,45,王晨昭,政治,No Info,No info,No info
+606,星期一,8:05,8:50,yjzx,45,龚明月,英语,No Info,No info,No info
+607,星期二,8:05,8:50,yjzx,45,杨德珍,数学,No Info,No info,No info
+608,星期三,8:05,8:50,yjzx,45,龚明月,英语,No Info,No info,No info
+609,星期四,8:05,8:50,yjzx,45,龚明月,英语,No Info,No info,No info
+610,星期五,8:05,8:50,yjzx,45,姚志华,物理,No Info,No info,No info
+611,星期一,9:00,9:45,yjzx,45,杨德珍,数学,No Info,No info,No info
+612,星期二,9:00,9:45,yjzx,45,龚明月,英语,No Info,No info,No info
+613,星期三,9:00,9:45,yjzx,45,杨德珍,数学,No Info,No info,No info
+614,星期四,9:00,9:45,yjzx,45,杨德珍,数学,No Info,No info,No info
+615,星期五,9:00,9:45,yjzx,45,杨德珍,数学,No Info,No info,No info
+616,星期一,10:00,10:45,yjzx,45,杨枝成,历史,No Info,No info,No info
+617,星期二,10:00,10:45,yjzx,45,童进娟,语文,No Info,No info,No info
+618,星期三,10:00,10:45,yjzx,45,童进娟,语文,No Info,No info,No info
+619,星期四,10:00,10:45,yjzx,45,姚志华,物理,No Info,No info,No info
+620,星期五,10:00,10:45,yjzx,45,龚明月,英语,No Info,No info,No info
+621,星期一,10:55,11:40,yjzx,45,童进娟,班会,No Info,No info,No info
+622,星期二,10:55,11:40,yjzx,45,姚志华,物理,No Info,No info,No info
+623,星期三,10:55,11:40,yjzx,45,徐柱花,地理,No Info,No info,No info
+624,星期四,10:55,11:40,yjzx,45,王晓溪,音乐,No Info,No info,No info
+625,星期五,10:55,11:40,yjzx,45,童进娟,语文,No Info,No info,No info
+626,星期一,13:50,14:35,yjzx,45,童进娟,语文,No Info,No info,No info
+627,星期二,13:50,14:35,yjzx,45,龚明月,英语,No Info,No info,No info
+628,星期三,13:50,14:35,yjzx,45,自丽华,美术,No Info,No info,No info
+629,星期四,13:50,14:35,yjzx,45,杨德珍,数学,No Info,No info,No info
+630,星期五,13:50,14:35,yjzx,45,奎尚春,体育,No Info,No info,No info
+631,星期一,14:50,15:35,yjzx,45,奎尚春,体育,No Info,No info,No info
+632,星期二,14:50,15:35,yjzx,45,王晨昭,政治,No Info,No info,No info
+633,星期三,14:50,15:35,yjzx,45,王晨昭,政治,No Info,No info,No info
+634,星期四,14:50,15:35,yjzx,45,徐柱花,地理,No Info,No info,No info
+635,星期五,14:50,15:35,yjzx,45,童进娟,语文,No Info,No info,No info
+636,星期一,15:45,16:30,yjzx,45,王武,信息,No Info,No info,No info
+637,星期二,15:45,16:30,yjzx,45,谢玉梅,生物,No Info,No info,No info
+638,星期三,15:45,16:30,yjzx,45,谢玉梅,生物,No Info,No info,No info
+639,星期四,15:45,16:30,yjzx,45,杨枝成,历史,No Info,No info,No info
+641,星期一,18:15,19:15,yjzx,45,童进娟,语文,No Info,No info,No info
+642,星期二,18:15,19:15,yjzx,45,谢玉梅,生物,No Info,No info,No info
+643,星期三,18:15,19:15,yjzx,45,杨德珍,数学,No Info,No info,No info
+644,星期四,18:15,19:15,yjzx,45,姚志华,物理,No Info,No info,No info
+646,星期一,19:25,20:25,yjzx,45,杨德珍,数学,No Info,No info,No info
+647,星期二,19:25,20:25,yjzx,45,龚明月,英语,No Info,No info,No info
+648,星期三,19:25,20:25,yjzx,45,龚明月,英语,No Info,No info,No info
+649,星期四,19:25,20:25,yjzx,45,徐柱花,地理,No Info,No info,No info
+651,星期一,7:00,7:35,yjzx,46,谢玉梅,生物,303,一体机,8
+652,星期二,7:00,7:35,yjzx,46,童进娟,语文,303,一体机,8
+653,星期三,7:00,7:35,yjzx,46,郭浩,物理,303,一体机,8
+654,星期四,7:00,7:35,yjzx,46,潘晓丽,英语,303,一体机,8
+655,星期五,7:00,7:35,yjzx,46,杨枝成,历史,303,一体机,8
+656,星期一,8:05,8:50,yjzx,46,童进娟,语文,303,一体机,8
+657,星期二,8:05,8:50,yjzx,46,童进娟,语文,303,一体机,8
+658,星期三,8:05,8:50,yjzx,46,谢玉梅,生物,303,一体机,8
+659,星期四,8:05,8:50,yjzx,46,陈学香,数学,303,一体机,8
+660,星期五,8:05,8:50,yjzx,46,陈学香,数学,303,一体机,8
+661,星期一,9:00,9:45,yjzx,46,郭浩,物理,303,一体机,8
+662,星期二,9:00,9:45,yjzx,46,陈学香,数学,303,一体机,8
+663,星期三,9:00,9:45,yjzx,46,陈学香,数学,303,一体机,8
+664,星期四,9:00,9:45,yjzx,46,潘晓丽,英语,303,一体机,8
+665,星期五,9:00,9:45,yjzx,46,童进娟,语文,303,一体机,8
+666,星期一,10:00,10:45,yjzx,46,徐柱花,地理,303,一体机,8
+667,星期二,10:00,10:45,yjzx,46,潘晓丽,英语,303,一体机,8
+668,星期三,10:00,10:45,yjzx,46,潘晓丽,英语,303,一体机,8
+669,星期四,10:00,10:45,yjzx,46,杨枝成,历史,303,一体机,8
+670,星期五,10:00,10:45,yjzx,46,杨枝成,历史,303,一体机,8
+671,星期一,10:55,11:40,yjzx,46,奎尚春,班会,303,一体机,8
+672,星期二,10:55,11:40,yjzx,46,郭浩,物理,303,一体机,8
+673,星期三,10:55,11:40,yjzx,46,王武,信息,303,一体机,8
+674,星期四,10:55,11:40,yjzx,46,童进娟,语文,303,一体机,8
+675,星期五,10:55,11:40,yjzx,46,潘晓丽,英语,303,一体机,8
+676,星期一,13:50,14:35,yjzx,46,潘晓丽,英语,303,一体机,8
+677,星期二,13:50,14:35,yjzx,46,王晨昭,政治,303,一体机,8
+678,星期三,13:50,14:35,yjzx,46,徐柱花,地理,303,一体机,8
+679,星期四,13:50,14:35,yjzx,46,郭浩,物理,303,一体机,8
+680,星期五,13:50,14:35,yjzx,46,自丽华,美术,303,一体机,8
+681,星期一,14:50,15:35,yjzx,46,谢玉梅,生物,303,一体机,8
+682,星期二,14:50,15:35,yjzx,46,奎尚春,体育,303,一体机,8
+683,星期三,14:50,15:35,yjzx,46,潘晓丽,英语,303,一体机,8
+684,星期四,14:50,15:35,yjzx,46,王晨昭,政治,303,一体机,8
+685,星期五,14:50,15:35,yjzx,46,奎尚春,体育,303,一体机,8
+686,星期一,15:45,16:30,yjzx,46,陈学香,数学,303,一体机,8
+687,星期二,15:45,16:30,yjzx,46,陈学香,数学,303,一体机,8
+688,星期三,15:45,16:30,yjzx,46,童进娟,语文,303,一体机,8
+689,星期四,15:45,16:30,yjzx,46,王晓溪,音乐,303,一体机,8
+691,星期一,18:15,19:15,yjzx,46,潘晓丽,英语,303,一体机,8
+692,星期二,18:15,19:15,yjzx,46,陈学香,数学,303,一体机,8
+693,星期三,18:15,19:15,yjzx,46,郭浩,物理,303,一体机,8
+694,星期四,18:15,19:15,yjzx,46,陈学香,数学,303,一体机,8
+696,星期一,19:25,20:25,yjzx,46,童进娟,语文,303,一体机,8
+697,星期二,19:25,20:25,yjzx,46,徐柱花,地理,303,一体机,8
+698,星期三,19:25,20:25,yjzx,46,潘晓丽,英语,303,一体机,8
+699,星期四,19:25,20:25,yjzx,46,王晨昭,政治,303,一体机,8
+701,星期一,7:00,7:35,yjzx,47,蔡聪文,语文,304,一体机,8
+702,星期二,7:00,7:35,yjzx,47,潘晓丽,英语,304,一体机,8
+703,星期三,7:00,7:35,yjzx,47,杨枝成,历史,304,一体机,8
+704,星期四,7:00,7:35,yjzx,47,龚正祥,数学,304,一体机,8
+705,星期五,7:00,7:35,yjzx,47,谢玉梅,生物,304,一体机,8
+706,星期一,8:05,8:50,yjzx,47,龚正祥,数学,304,一体机,8
+707,星期二,8:05,8:50,yjzx,47,潘晓丽,英语,304,一体机,8
+708,星期三,8:05,8:50,yjzx,47,龚正祥,数学,304,一体机,8
+709,星期四,8:05,8:50,yjzx,47,潘晓丽,英语,304,一体机,8
+710,星期五,8:05,8:50,yjzx,47,潘晓丽,英语,304,一体机,8
+711,星期一,9:00,9:45,yjzx,47,潘晓丽,英语,304,一体机,8
+712,星期二,9:00,9:45,yjzx,47,谢玉梅,生物,304,一体机,8
+713,星期三,9:00,9:45,yjzx,47,潘晓丽,英语,304,一体机,8
+714,星期四,9:00,9:45,yjzx,47,龚正祥,数学,304,一体机,8
+715,星期五,9:00,9:45,yjzx,47,龚正祥,数学,304,一体机,8
+716,星期一,10:00,10:45,yjzx,47,郭浩,物理,304,一体机,8
+717,星期二,10:00,10:45,yjzx,47,蔡聪文,语文,304,一体机,8
+718,星期三,10:00,10:45,yjzx,47,蔡聪文,语文,304,一体机,8
+719,星期四,10:00,10:45,yjzx,47,蔡聪文,语文,304,一体机,8
+720,星期五,10:00,10:45,yjzx,47,谢玉梅,生物,304,一体机,8
+721,星期一,10:55,11:40,yjzx,47,蔡聪文,班会,304,一体机,8
+722,星期二,10:55,11:40,yjzx,47,龚正祥,数学,304,一体机,8
+723,星期三,10:55,11:40,yjzx,47,郭浩,物理,304,一体机,8
+724,星期四,10:55,11:40,yjzx,47,奎永胜,政治,304,一体机,8
+725,星期五,10:55,11:40,yjzx,47,徐柱花,地理,304,一体机,8
+726,星期一,13:50,14:35,yjzx,47,王武,信息,304,一体机,8
+727,星期二,13:50,14:35,yjzx,47,自丽华,美术,304,一体机,8
+728,星期三,13:50,14:35,yjzx,47,奎永胜,政治,304,一体机,8
+729,星期四,13:50,14:35,yjzx,47,王晓溪,音乐,304,一体机,8
+730,星期五,13:50,14:35,yjzx,47,郭浩,物理,304,一体机,8
+731,星期一,14:50,15:35,yjzx,47,李钟国,体育,304,一体机,8
+732,星期二,14:50,15:35,yjzx,47,杨枝成,历史,304,一体机,8
+733,星期三,14:50,15:35,yjzx,47,杨枝成,历史,304,一体机,8
+734,星期四,14:50,15:35,yjzx,47,李钟国,体育,304,一体机,8
+735,星期五,14:50,15:35,yjzx,47,蔡聪文,语文,304,一体机,8
+736,星期一,15:45,16:30,yjzx,47,徐柱花,地理,304,一体机,8
+737,星期二,15:45,16:30,yjzx,47,潘晓丽,英语,304,一体机,8
+738,星期三,15:45,16:30,yjzx,47,蔡聪文,语文,304,一体机,8
+739,星期四,15:45,16:30,yjzx,47,龚正祥,数学,304,一体机,8
+741,星期一,18:15,19:15,yjzx,47,奎永胜,政治,304,一体机,8
+742,星期二,18:15,19:15,yjzx,47,龚正祥,数学,304,一体机,8
+743,星期三,18:15,19:15,yjzx,47,潘晓丽,英语,304,一体机,8
+744,星期四,18:15,19:15,yjzx,47,徐柱花,地理,304,一体机,8
+746,星期一,19:25,20:25,yjzx,47,潘晓丽,英语,304,一体机,8
+747,星期二,19:25,20:25,yjzx,47,郭浩,物理,304,一体机,8
+748,星期三,19:25,20:25,yjzx,47,郭浩,物理,304,一体机,8
+749,星期四,19:25,20:25,yjzx,47,蔡聪文,语文,304,一体机,8
+751,星期一,7:00,7:35,yjzx,48,杨艳红,生物,305,一体机,8
+752,星期二,7:00,7:35,yjzx,48,杨智聪,语文,305,一体机,8
+753,星期三,7:00,7:35,yjzx,48,杨丽琼,地理,305,一体机,8
+754,星期四,7:00,7:35,yjzx,48,师玉梅,英语,305,一体机,8
+755,星期五,7:00,7:35,yjzx,48,刘炳明,物理,305,一体机,8
+756,星期一,8:05,8:50,yjzx,48,陈学香,数学,305,一体机,8
+757,星期二,8:05,8:50,yjzx,48,师玉梅,英语,305,一体机,8
+758,星期三,8:05,8:50,yjzx,48,陈学香,数学,305,一体机,8
+759,星期四,8:05,8:50,yjzx,48,杨智聪,语文,305,一体机,8
+760,星期五,8:05,8:50,yjzx,48,杨智聪,语文,305,一体机,8
+761,星期一,9:00,9:45,yjzx,48,杨智聪,语文,305,一体机,8
+762,星期二,9:00,9:45,yjzx,48,杨智聪,语文,305,一体机,8
+763,星期三,9:00,9:45,yjzx,48,师玉梅,英语,305,一体机,8
+764,星期四,9:00,9:45,yjzx,48,陈学香,数学,305,一体机,8
+765,星期五,9:00,9:45,yjzx,48,陈学香,数学,305,一体机,8
+766,星期一,10:00,10:45,yjzx,48,师玉梅,英语,305,一体机,8
+767,星期二,10:00,10:45,yjzx,48,刘炳明,物理,305,一体机,8
+768,星期三,10:00,10:45,yjzx,48,刘炳明,物理,305,一体机,8
+769,星期四,10:00,10:45,yjzx,48,师玉梅,英语,305,一体机,8
+770,星期五,10:00,10:45,yjzx,48,杨会,历史,305,一体机,8
+771,星期一,10:55,11:40,yjzx,48,奎永胜,班会,305,一体机,8
+772,星期二,10:55,11:40,yjzx,48,陈学香,数学,305,一体机,8
+773,星期三,10:55,11:40,yjzx,48,张连,体育,305,一体机,8
+774,星期四,10:55,11:40,yjzx,48,杨会,历史,305,一体机,8
+775,星期五,10:55,11:40,yjzx,48,师玉梅,英语,305,一体机,8
+776,星期一,13:50,14:35,yjzx,48,陈学香,数学,305,一体机,8
+777,星期二,13:50,14:35,yjzx,48,师玉梅,英语,305,一体机,8
+778,星期三,13:50,14:35,yjzx,48,谷亮,信息,305,一体机,8
+779,星期四,13:50,14:35,yjzx,48,杨艳红,生物,305,一体机,8
+780,星期五,13:50,14:35,yjzx,48,赵婷,音乐,305,一体机,8
+781,星期一,14:50,15:35,yjzx,48,奎永胜,政治,305,一体机,8
+782,星期二,14:50,15:35,yjzx,48,杨丽琼,地理,305,一体机,8
+783,星期三,14:50,15:35,yjzx,48,自丽华,美术,305,一体机,8
+784,星期四,14:50,15:35,yjzx,48,杨丽琼,地理,305,一体机,8
+785,星期五,14:50,15:35,yjzx,48,奎永胜,政治,305,一体机,8
+786,星期一,15:45,16:30,yjzx,48,张连,体育,305,一体机,8
+787,星期二,15:45,16:30,yjzx,48,杨艳红,生物,305,一体机,8
+788,星期三,15:45,16:30,yjzx,48,杨智聪,语文,305,一体机,8
+789,星期四,15:45,16:30,yjzx,48,刘炳明,物理,305,一体机,8
+791,星期一,18:15,19:15,yjzx,48,师玉梅,英语,305,一体机,8
+792,星期二,18:15,19:15,yjzx,48,杨智聪,语文,305,一体机,8
+793,星期三,18:15,19:15,yjzx,48,师玉梅,英语,305,一体机,8
+794,星期四,18:15,19:15,yjzx,48,刘炳明,物理,305,一体机,8
+796,星期一,19:25,20:25,yjzx,48,奎永胜,政治,305,一体机,8
+797,星期二,19:25,20:25,yjzx,48,陈学香,数学,305,一体机,8
+798,星期三,19:25,20:25,yjzx,48,杨会,历史,305,一体机,8
+799,星期四,19:25,20:25,yjzx,48,陈学香,数学,305,一体机,8
+801,星期一,7:00,7:35,yjzx,49,张鸣昌,政治,306,一体机,8
+802,星期二,7:00,7:35,yjzx,49,王棋芳,历史,306,一体机,8
+803,星期三,7:00,7:35,yjzx,49,陈加才,英语,306,一体机,8
+804,星期四,7:00,7:35,yjzx,49,陈永陆,语文,306,一体机,8
+805,星期五,7:00,7:35,yjzx,49,黄永庆,地理,306,一体机,8
+806,星期一,8:05,8:50,yjzx,49,何新明,数学,306,一体机,8
+807,星期二,8:05,8:50,yjzx,49,刘炳明,物理,306,一体机,8
+808,星期三,8:05,8:50,yjzx,49,陈加才,英语,306,一体机,8
+809,星期四,8:05,8:50,yjzx,49,陈永陆,语文,306,一体机,8
+810,星期五,8:05,8:50,yjzx,49,陈加才,英语,306,一体机,8
+811,星期一,9:00,9:45,yjzx,49,刘炳明,物理,306,一体机,8
+812,星期二,9:00,9:45,yjzx,49,陈永陆,语文,306,一体机,8
+813,星期三,9:00,9:45,yjzx,49,王棋芳,历史,306,一体机,8
+814,星期四,9:00,9:45,yjzx,49,陈加才,英语,306,一体机,8
+815,星期五,9:00,9:45,yjzx,49,何新明,数学,306,一体机,8
+816,星期一,10:00,10:45,yjzx,49,陈加才,英语,306,一体机,8
+817,星期二,10:00,10:45,yjzx,49,自丽华,美术,306,一体机,8
+818,星期三,10:00,10:45,yjzx,49,何新明,数学,306,一体机,8
+819,星期四,10:00,10:45,yjzx,49,何新明,数学,306,一体机,8
+820,星期五,10:00,10:45,yjzx,49,陈永陆,语文,306,一体机,8
+821,星期一,10:55,11:40,yjzx,49,张鸣昌,班会,306,一体机,8
+822,星期二,10:55,11:40,yjzx,49,何新明,数学,306,一体机,8
+823,星期三,10:55,11:40,yjzx,49,杨艳红,生物,306,一体机,8
+824,星期四,10:55,11:40,yjzx,49,谷亮,信息,306,一体机,8
+825,星期五,10:55,11:40,yjzx,49,杨艳红,生物,306,一体机,8
+826,星期一,13:50,14:35,yjzx,49,李鸿,体育,306,一体机,8
+827,星期二,13:50,14:35,yjzx,49,陈加才,英语,306,一体机,8
+828,星期三,13:50,14:35,yjzx,49,陈永陆,语文,306,一体机,8
+829,星期四,13:50,14:35,yjzx,49,陈加才,英语,306,一体机,8
+830,星期五,13:50,14:35,yjzx,49,王棋芳,历史,306,一体机,8
+831,星期一,14:50,15:35,yjzx,49,陈永陆,语文,306,一体机,8
+832,星期二,14:50,15:35,yjzx,49,何新明,数学,306,一体机,8
+833,星期三,14:50,15:35,yjzx,49,李鸿,体育,306,一体机,8
+834,星期四,14:50,15:35,yjzx,49,张鸣昌,政治,306,一体机,8
+835,星期五,14:50,15:35,yjzx,49,张鸣昌,政治,306,一体机,8
+836,星期一,15:45,16:30,yjzx,49,黄永庆,地理,306,一体机,8
+837,星期二,15:45,16:30,yjzx,49,赵婷,音乐,306,一体机,8
+838,星期三,15:45,16:30,yjzx,49,刘炳明,物理,306,一体机,8
+839,星期四,15:45,16:30,yjzx,49,黄永庆,地理,306,一体机,8
+841,星期一,18:15,19:15,yjzx,49,刘炳明,物理,306,一体机,8
+842,星期二,18:15,19:15,yjzx,49,陈加才,英语,306,一体机,8
+843,星期三,18:15,19:15,yjzx,49,陈永陆,语文,306,一体机,8
+844,星期四,18:15,19:15,yjzx,49,何新明,数学,306,一体机,8
+846,星期一,19:25,20:25,yjzx,49,何新明,数学,306,一体机,8
+847,星期二,19:25,20:25,yjzx,49,杨艳红,生物,306,一体机,8
+848,星期三,19:25,20:25,yjzx,49,陈加才,英语,306,一体机,8
+849,星期四,19:25,20:25,yjzx,49,刘炳明,物理,306,一体机,8
+851,星期一,7:00,7:35,yjzx,50,王棋芳,历史,No Info,No info,No info
+852,星期二,7:00,7:35,yjzx,50,刘炳明,物理,No Info,No info,No info
+853,星期三,7:00,7:35,yjzx,50,张鸣昌,政治,No Info,No info,No info
+854,星期四,7:00,7:35,yjzx,50,陈加才,英语,No Info,No info,No info
+855,星期五,7:00,7:35,yjzx,50,陈永陆,语文,No Info,No info,No info
+856,星期一,8:05,8:50,yjzx,50,陈加才,英语,No Info,No info,No info
+857,星期二,8:05,8:50,yjzx,50,何新明,数学,No Info,No info,No info
+858,星期三,8:05,8:50,yjzx,50,刘炳明,物理,No Info,No info,No info
+859,星期四,8:05,8:50,yjzx,50,陈加才,英语,No Info,No info,No info
+860,星期五,8:05,8:50,yjzx,50,陈永陆,语文,No Info,No info,No info
+861,星期一,9:00,9:45,yjzx,50,何新明,数学,No Info,No info,No info
+862,星期二,9:00,9:45,yjzx,50,陈加才,英语,No Info,No info,No info
+863,星期三,9:00,9:45,yjzx,50,何新明,数学,No Info,No info,No info
+864,星期四,9:00,9:45,yjzx,50,何新明,数学,No Info,No info,No info
+865,星期五,9:00,9:45,yjzx,50,陈加才,英语,No Info,No info,No info
+866,星期一,10:00,10:45,yjzx,50,陈永陆,语文,No Info,No info,No info
+867,星期二,10:00,10:45,yjzx,50,张鸣昌,政治,No Info,No info,No info
+868,星期三,10:00,10:45,yjzx,50,陈加才,英语,No Info,No info,No info
+869,星期四,10:00,10:45,yjzx,50,王棋芳,历史,No Info,No info,No info
+870,星期五,10:00,10:45,yjzx,50,何新明,数学,No Info,No info,No info
+871,星期一,10:55,11:40,yjzx,50,王棋芳,班会,No Info,No info,No info
+872,星期二,10:55,11:40,yjzx,50,自丽华,美术,No Info,No info,No info
+873,星期三,10:55,11:40,yjzx,50,陈永陆,语文,No Info,No info,No info
+874,星期四,10:55,11:40,yjzx,50,刘炳明,物理,No Info,No info,No info
+875,星期五,10:55,11:40,yjzx,50,刘炳明,物理,No Info,No info,No info
+876,星期一,13:50,14:35,yjzx,50,黄永庆,地理,No Info,No info,No info
+877,星期二,13:50,14:35,yjzx,50,杨艳红,生物,No Info,No info,No info
+878,星期三,13:50,14:35,yjzx,50,何新明,数学,No Info,No info,No info
+879,星期四,13:50,14:35,yjzx,50,谷亮,信息,No Info,No info,No info
+880,星期五,13:50,14:35,yjzx,50,李鸿,体育,No Info,No info,No info
+881,星期一,14:50,15:35,yjzx,50,李鸿,体育,No Info,No info,No info
+882,星期二,14:50,15:35,yjzx,50,陈永陆,语文,No Info,No info,No info
+883,星期三,14:50,15:35,yjzx,50,张鸣昌,政治,No Info,No info,No info
+884,星期四,14:50,15:35,yjzx,50,陈永陆,语文,No Info,No info,No info
+885,星期五,14:50,15:35,yjzx,50,王棋芳,历史,No Info,No info,No info
+886,星期一,15:45,16:30,yjzx,50,赵婷,音乐,No Info,No info,No info
+887,星期二,15:45,16:30,yjzx,50,黄永庆,地理,No Info,No info,No info
+888,星期三,15:45,16:30,yjzx,50,陈加才,英语,No Info,No info,No info
+889,星期四,15:45,16:30,yjzx,50,杨艳红,生物,No Info,No info,No info
+891,星期一,18:15,19:15,yjzx,50,何新明,数学,No Info,No info,No info
+892,星期二,18:15,19:15,yjzx,50,杨艳红,生物,No Info,No info,No info
+893,星期三,18:15,19:15,yjzx,50,陈加才,英语,No Info,No info,No info
+894,星期四,18:15,19:15,yjzx,50,黄永庆,地理,No Info,No info,No info
+896,星期一,19:25,20:25,yjzx,50,刘炳明,物理,No Info,No info,No info
+897,星期二,19:25,20:25,yjzx,50,陈加才,英语,No Info,No info,No info
+898,星期三,19:25,20:25,yjzx,50,陈永陆,语文,No Info,No info,No info
+899,星期四,19:25,20:25,yjzx,50,何新明,数学,No Info,No info,No info
+901,星期一,7:00,7:35,yjzx,51,聂秀权,数学,No Info,No info,No info
+902,星期二,7:00,7:35,yjzx,51,杨艳红,生物,No Info,No info,No info
+903,星期三,7:00,7:35,yjzx,51,罗秀花,物理,No Info,No info,No info
+904,星期四,7:00,7:35,yjzx,51,余惠芳,英语,No Info,No info,No info
+905,星期五,7:00,7:35,yjzx,51,董体聪,语文,No Info,No info,No info
+906,星期一,8:05,8:50,yjzx,51,董体聪,语文,No Info,No info,No info
+907,星期二,8:05,8:50,yjzx,51,董体聪,语文,No Info,No info,No info
+908,星期三,8:05,8:50,yjzx,51,余惠芳,英语,No Info,No info,No info
+909,星期四,8:05,8:50,yjzx,51,余惠芳,英语,No Info,No info,No info
+910,星期五,8:05,8:50,yjzx,51,董体聪,语文,No Info,No info,No info
+911,星期一,9:00,9:45,yjzx,51,聂秀权,数学,No Info,No info,No info
+912,星期二,9:00,9:45,yjzx,51,聂秀权,数学,No Info,No info,No info
+913,星期三,9:00,9:45,yjzx,51,聂秀权,数学,No Info,No info,No info
+914,星期四,9:00,9:45,yjzx,51,聂秀权,数学,No Info,No info,No info
+915,星期五,9:00,9:45,yjzx,51,罗秀花,物理,No Info,No info,No info
+916,星期一,10:00,10:45,yjzx,51,余惠芳,英语,No Info,No info,No info
+917,星期二,10:00,10:45,yjzx,51,余惠芳,英语,No Info,No info,No info
+918,星期三,10:00,10:45,yjzx,51,杨艳红,生物,No Info,No info,No info
+919,星期四,10:00,10:45,yjzx,51,董体聪,语文,No Info,No info,No info
+920,星期五,10:00,10:45,yjzx,51,张鸣昌,政治,No Info,No info,No info
+921,星期一,10:55,11:40,yjzx,51,聂秀权,班会,No Info,No info,No info
+922,星期二,10:55,11:40,yjzx,51,黄永庆,地理,No Info,No info,No info
+923,星期三,10:55,11:40,yjzx,51,王棋芳,历史,No Info,No info,No info
+924,星期四,10:55,11:40,yjzx,51,赵婷,音乐,No Info,No info,No info
+925,星期五,10:55,11:40,yjzx,51,余惠芳,英语,No Info,No info,No info
+926,星期一,13:50,14:35,yjzx,51,李志鸿,体育,No Info,No info,No info
+927,星期二,13:50,14:35,yjzx,51,罗秀花,物理,No Info,No info,No info
+928,星期三,13:50,14:35,yjzx,51,余惠芳,英语,No Info,No info,No info
+929,星期四,13:50,14:35,yjzx,51,聂秀权,数学,No Info,No info,No info
+930,星期五,13:50,14:35,yjzx,51,黄永庆,地理,No Info,No info,No info
+931,星期一,14:50,15:35,yjzx,51,谷亮,信息,No Info,No info,No info
+932,星期二,14:50,15:35,yjzx,51,李志鸿,体育,No Info,No info,No info
+933,星期三,14:50,15:35,yjzx,51,罗秀花,物理,No Info,No info,No info
+934,星期四,14:50,15:35,yjzx,51,杨艳红,生物,No Info,No info,No info
+935,星期五,14:50,15:35,yjzx,51,聂秀权,数学,No Info,No info,No info
+936,星期一,15:45,16:30,yjzx,51,自丽华,美术,No Info,No info,No info
+937,星期二,15:45,16:30,yjzx,51,张鸣昌,政治,No Info,No info,No info
+938,星期三,15:45,16:30,yjzx,51,董体聪,语文,No Info,No info,No info
+939,星期四,15:45,16:30,yjzx,51,王棋芳,历史,No Info,No info,No info
+941,星期一,18:15,19:15,yjzx,51,余惠芳,英语,No Info,No info,No info
+942,星期二,18:15,19:15,yjzx,51,张鸣昌,政治,No Info,No info,No info
+943,星期三,18:15,19:15,yjzx,51,聂秀权,数学,No Info,No info,No info
+944,星期四,18:15,19:15,yjzx,51,王棋芳,历史,No Info,No info,No info
+946,星期一,19:25,20:25,yjzx,51,罗秀花,物理,No Info,No info,No info
+947,星期二,19:25,20:25,yjzx,51,黄永庆,地理,No Info,No info,No info
+948,星期三,19:25,20:25,yjzx,51,余惠芳,英语,No Info,No info,No info
+949,星期四,19:25,20:25,yjzx,51,董体聪,语文,No Info,No info,No info
+951,星期一,7:00,7:35,yjzx,52,董体聪,语文,No Info,No info,No info
+952,星期二,7:00,7:35,yjzx,52,龚明月,英语,No Info,No info,No info
+953,星期三,7:00,7:35,yjzx,52,黄永庆,地理,No Info,No info,No info
+954,星期四,7:00,7:35,yjzx,52,聂秀权,数学,No Info,No info,No info
+955,星期五,7:00,7:35,yjzx,52,罗秀花,物理,No Info,No info,No info
+956,星期一,8:05,8:50,yjzx,52,聂秀权,数学,No Info,No info,No info
+957,星期二,8:05,8:50,yjzx,52,龚明月,英语,No Info,No info,No info
+958,星期三,8:05,8:50,yjzx,52,罗秀花,物理,No Info,No info,No info
+959,星期四,8:05,8:50,yjzx,52,聂秀权,数学,No Info,No info,No info
+960,星期五,8:05,8:50,yjzx,52,杨艳红,生物,No Info,No info,No info
+961,星期一,9:00,9:45,yjzx,52,董体聪,语文,No Info,No info,No info
+962,星期二,9:00,9:45,yjzx,52,董体聪,语文,No Info,No info,No info
+963,星期三,9:00,9:45,yjzx,52,龚明月,英语,No Info,No info,No info
+964,星期四,9:00,9:45,yjzx,52,董体聪,语文,No Info,No info,No info
+965,星期五,9:00,9:45,yjzx,52,龚明月,英语,No Info,No info,No info
+966,星期一,10:00,10:45,yjzx,52,龚明月,英语,No Info,No info,No info
+967,星期二,10:00,10:45,yjzx,52,聂秀权,数学,No Info,No info,No info
+968,星期三,10:00,10:45,yjzx,52,黄永庆,地理,No Info,No info,No info
+969,星期四,10:00,10:45,yjzx,52,龚明月,英语,No Info,No info,No info
+970,星期五,10:00,10:45,yjzx,52,罗秀花,物理,No Info,No info,No info
+971,星期一,10:55,11:40,yjzx,52,董体聪,班会,No Info,No info,No info
+972,星期二,10:55,11:40,yjzx,52,李钟国,体育,No Info,No info,No info
+973,星期三,10:55,11:40,yjzx,52,聂秀权,数学,No Info,No info,No info
+974,星期四,10:55,11:40,yjzx,52,李钟国,体育,No Info,No info,No info
+975,星期五,10:55,11:40,yjzx,52,王棋芳,历史,No Info,No info,No info
+976,星期一,13:50,14:35,yjzx,52,王棋芳,历史,No Info,No info,No info
+977,星期二,13:50,14:35,yjzx,52,谷亮,信息,No Info,No info,No info
+978,星期三,13:50,14:35,yjzx,52,董体聪,语文,No Info,No info,No info
+979,星期四,13:50,14:35,yjzx,52,张鸣昌,政治,No Info,No info,No info
+980,星期五,13:50,14:35,yjzx,52,聂秀权,数学,No Info,No info,No info
+981,星期一,14:50,15:35,yjzx,52,张鸣昌,政治,No Info,No info,No info
+982,星期二,14:50,15:35,yjzx,52,罗秀花,物理,No Info,No info,No info
+983,星期三,14:50,15:35,yjzx,52,杨艳红,生物,No Info,No info,No info
+984,星期四,14:50,15:35,yjzx,52,黄永庆,地理,No Info,No info,No info
+985,星期五,14:50,15:35,yjzx,52,董体聪,语文,No Info,No info,No info
+986,星期一,15:45,16:30,yjzx,52,聂秀权,数学,No Info,No info,No info
+987,星期二,15:45,16:30,yjzx,52,自丽华,美术,No Info,No info,No info
+988,星期三,15:45,16:30,yjzx,52,赵婷,音乐,No Info,No info,No info
+989,星期四,15:45,16:30,yjzx,52,龚明月,英语,No Info,No info,No info
+991,星期一,18:15,19:15,yjzx,52,罗秀花,物理,No Info,No info,No info
+992,星期二,18:15,19:15,yjzx,52,龚明月,英语,No Info,No info,No info
+993,星期三,18:15,19:15,yjzx,52,杨艳红,生物,No Info,No info,No info
+994,星期四,18:15,19:15,yjzx,52,董体聪,语文,No Info,No info,No info
+996,星期一,19:25,20:25,yjzx,52,王棋芳,历史,No Info,No info,No info
+997,星期二,19:25,20:25,yjzx,52,张鸣昌,政治,No Info,No info,No info
+998,星期三,19:25,20:25,yjzx,52,聂秀权,数学,No Info,No info,No info
+999,星期四,19:25,20:25,yjzx,52,龚明月,英语,No Info,No info,No info
+1001,星期一,7:00,7:35,yjzx,53,黄智贤,地理,101,一体机,7
+1002,星期二,7:00,7:35,yjzx,53,王翠华,英语,101,一体机,7
+1003,星期三,7:00,7:35,yjzx,53,王武,信息,101,一体机,7
+1004,星期四,7:00,7:35,yjzx,53,王建国,语文,101,一体机,7
+1005,星期五,7:00,7:35,yjzx,53,张会菊,政治,101,一体机,7
+1006,星期一,8:05,8:50,yjzx,53,王翠华,英语,101,一体机,7
+1007,星期二,8:05,8:50,yjzx,53,王翠华,英语,101,一体机,7
+1008,星期三,8:05,8:50,yjzx,53,王翠华,英语,101,一体机,7
+1009,星期四,8:05,8:50,yjzx,53,王建国,语文,101,一体机,7
+1010,星期五,8:05,8:50,yjzx,53,张会菊,政治,101,一体机,7
+1011,星期一,9:00,9:45,yjzx,53,王建国,语文,101,一体机,7
+1012,星期二,9:00,9:45,yjzx,53,王建国,语文,101,一体机,7
+1013,星期三,9:00,9:45,yjzx,53,王建国,语文,101,一体机,7
+1014,星期四,9:00,9:45,yjzx,53,向瑜,数学,101,一体机,7
+1015,星期五,9:00,9:45,yjzx,53,向瑜,数学,101,一体机,7
+1016,星期一,10:00,10:45,yjzx,53,向瑜,数学,101,一体机,7
+1017,星期二,10:00,10:45,yjzx,53,向瑜,数学,101,一体机,7
+1018,星期三,10:00,10:45,yjzx,53,向瑜,数学,101,一体机,7
+1019,星期四,10:00,10:45,yjzx,53,王翠华,英语,101,一体机,7
+1020,星期五,10:00,10:45,yjzx,53,王翠华,英语,101,一体机,7
+1021,星期一,10:55,11:40,yjzx,53,王建国,班会,101,一体机,7
+1022,星期二,10:55,11:40,yjzx,53,李志鸿,体育,101,一体机,7
+1023,星期三,10:55,11:40,yjzx,53,自丽华,美术,101,一体机,7
+1024,星期四,10:55,11:40,yjzx,53,杜世能,历史,101,一体机,7
+1025,星期五,10:55,11:40,yjzx,53,杨宝,生物,101,一体机,7
+1026,星期一,13:50,14:35,yjzx,53,黄智贤,地理,101,一体机,7
+1027,星期二,13:50,14:35,yjzx,53,杨宝,生物,101,一体机,7
+1028,星期三,13:50,14:35,yjzx,53,向瑜,数学,101,一体机,7
+1029,星期四,13:50,14:35,yjzx,53,王武,信息,101,一体机,7
+1030,星期五,13:50,14:35,yjzx,53,王翠华,英语,101,一体机,7
+1031,星期一,14:50,15:35,yjzx,53,赵婷,音乐,101,一体机,7
+1032,星期二,14:50,15:35,yjzx,53,张会菊,政治,101,一体机,7
+1033,星期三,14:50,15:35,yjzx,53,王建国,语文,101,一体机,7
+1034,星期四,14:50,15:35,yjzx,53,李志鸿,体育,101,一体机,7
+1035,星期五,14:50,15:35,yjzx,53,王建国,语文,101,一体机,7
+1036,星期一,15:45,16:30,yjzx,53,向瑜,数学,101,一体机,7
+1037,星期二,15:45,16:30,yjzx,53,杜世能,历史,101,一体机,7
+1038,星期三,15:45,16:30,yjzx,53,王翠华,英语,101,一体机,7
+1039,星期四,15:45,16:30,yjzx,53,黄智贤,地理,101,一体机,7
+1041,星期一,18:15,19:15,yjzx,53,王翠华,英语,101,一体机,7
+1042,星期二,18:15,19:15,yjzx,53,杜世能,历史,101,一体机,7
+1043,星期三,18:15,19:15,yjzx,53,杨宝,生物,101,一体机,7
+1044,星期四,18:15,19:15,yjzx,53,向瑜,数学,101,一体机,7
+1046,星期一,19:25,20:25,yjzx,53,赵婷,音乐,101,一体机,7
+1047,星期二,19:25,20:25,yjzx,53,向瑜,数学,101,一体机,7
+1048,星期三,19:25,20:25,yjzx,53,张会菊,政治,101,一体机,7
+1049,星期四,19:25,20:25,yjzx,53,王建国,语文,101,一体机,7
+1051,星期一,7:00,7:35,yjzx,54,王翠华,英语,No Info,No info,No info
+1052,星期二,7:00,7:35,yjzx,54,王武,信息,No Info,No info,No info
+1053,星期三,7:00,7:35,yjzx,54,杜世能,历史,No Info,No info,No info
+1054,星期四,7:00,7:35,yjzx,54,杨泽志,语文,No Info,No info,No info
+1055,星期五,7:00,7:35,yjzx,54,杨宝,生物,No Info,No info,No info
+1056,星期一,8:05,8:50,yjzx,54,向瑜,数学,No Info,No info,No info
+1057,星期二,8:05,8:50,yjzx,54,杨泽志,语文,No Info,No info,No info
+1058,星期三,8:05,8:50,yjzx,54,杨泽志,语文,No Info,No info,No info
+1059,星期四,8:05,8:50,yjzx,54,王翠华,英语,No Info,No info,No info
+1060,星期五,8:05,8:50,yjzx,54,向瑜,数学,No Info,No info,No info
+1061,星期一,9:00,9:45,yjzx,54,王翠华,英语,No Info,No info,No info
+1062,星期二,9:00,9:45,yjzx,54,向瑜,数学,No Info,No info,No info
+1063,星期三,9:00,9:45,yjzx,54,向瑜,数学,No Info,No info,No info
+1064,星期四,9:00,9:45,yjzx,54,杨泽志,语文,No Info,No info,No info
+1065,星期五,9:00,9:45,yjzx,54,王翠华,英语,No Info,No info,No info
+1066,星期一,10:00,10:45,yjzx,54,杨宝,生物,No Info,No info,No info
+1067,星期二,10:00,10:45,yjzx,54,王翠华,英语,No Info,No info,No info
+1068,星期三,10:00,10:45,yjzx,54,王翠华,英语,No Info,No info,No info
+1069,星期四,10:00,10:45,yjzx,54,向瑜,数学,No Info,No info,No info
+1070,星期五,10:00,10:45,yjzx,54,杨泽志,语文,No Info,No info,No info
+1071,星期一,10:55,11:40,yjzx,54,王翠华,班会,No Info,No info,No info
+1072,星期二,10:55,11:40,yjzx,54,杜世能,历史,No Info,No info,No info
+1073,星期三,10:55,11:40,yjzx,54,李志鸿,体育,No Info,No info,No info
+1074,星期四,10:55,11:40,yjzx,54,自丽华,美术,No Info,No info,No info
+1075,星期五,10:55,11:40,yjzx,54,张会菊,政治,No Info,No info,No info
+1076,星期一,13:50,14:35,yjzx,54,张会菊,政治,No Info,No info,No info
+1077,星期二,13:50,14:35,yjzx,54,赵婷,音乐,No Info,No info,No info
+1078,星期三,13:50,14:35,yjzx,54,王武,信息,No Info,No info,No info
+1079,星期四,13:50,14:35,yjzx,54,杨宝,生物,No Info,No info,No info
+1080,星期五,13:50,14:35,yjzx,54,黄智贤,地理,No Info,No info,No info
+1081,星期一,14:50,15:35,yjzx,54,杨泽志,语文,No Info,No info,No info
+1082,星期二,14:50,15:35,yjzx,54,向瑜,数学,No Info,No info,No info
+1083,星期三,14:50,15:35,yjzx,54,杜世能,历史,No Info,No info,No info
+1084,星期四,14:50,15:35,yjzx,54,向瑜,数学,No Info,No info,No info
+1085,星期五,14:50,15:35,yjzx,54,王翠华,英语,No Info,No info,No info
+1086,星期一,15:45,16:30,yjzx,54,王翠华,英语,No Info,No info,No info
+1087,星期二,15:45,16:30,yjzx,54,杨泽志,语文,No Info,No info,No info
+1088,星期三,15:45,16:30,yjzx,54,黄智贤,地理,No Info,No info,No info
+1089,星期四,15:45,16:30,yjzx,54,李志鸿,体育,No Info,No info,No info
+1091,星期一,18:15,19:15,yjzx,54,杨泽志,语文,No Info,No info,No info
+1092,星期二,18:15,19:15,yjzx,54,向瑜,数学,No Info,No info,No info
+1093,星期三,18:15,19:15,yjzx,54,张会菊,政治,No Info,No info,No info
+1094,星期四,18:15,19:15,yjzx,54,黄智贤,地理,No Info,No info,No info
+1096,星期一,19:25,20:25,yjzx,54,王翠华,英语,No Info,No info,No info
+1097,星期二,19:25,20:25,yjzx,54,杜世能,历史,No Info,No info,No info
+1098,星期三,19:25,20:25,yjzx,54,杨泽志,语文,No Info,No info,No info
+1099,星期四,19:25,20:25,yjzx,54,向瑜,数学,No Info,No info,No info
+1101,星期一,7:00,7:35,yjzx,55,陈丽英,英语,No Info,No info,No info
+1102,星期二,7:00,7:35,yjzx,55,杜世能,历史,No Info,No info,No info
+1103,星期三,7:00,7:35,yjzx,55,邓玲,语文,No Info,No info,No info
+1104,星期四,7:00,7:35,yjzx,55,张会菊,政治,No Info,No info,No info
+1105,星期五,7:00,7:35,yjzx,55,黄智贤,地理,No Info,No info,No info
+1106,星期一,8:05,8:50,yjzx,55,陈丽英,英语,No Info,No info,No info
+1107,星期二,8:05,8:50,yjzx,55,陈丽英,英语,No Info,No info,No info
+1108,星期三,8:05,8:50,yjzx,55,李芳,数学,No Info,No info,No info
+1109,星期四,8:05,8:50,yjzx,55,邓玲,语文,No Info,No info,No info
+1110,星期五,8:05,8:50,yjzx,55,李芳,数学,No Info,No info,No info
+1111,星期一,9:00,9:45,yjzx,55,李芳,数学,No Info,No info,No info
+1112,星期二,9:00,9:45,yjzx,55,黄智贤,地理,No Info,No info,No info
+1113,星期三,9:00,9:45,yjzx,55,邓玲,语文,No Info,No info,No info
+1114,星期四,9:00,9:45,yjzx,55,李芳,数学,No Info,No info,No info
+1115,星期五,9:00,9:45,yjzx,55,陈丽英,英语,No Info,No info,No info
+1116,星期一,10:00,10:45,yjzx,55,邓玲,语文,No Info,No info,No info
+1117,星期二,10:00,10:45,yjzx,55,李芳,数学,No Info,No info,No info
+1118,星期三,10:00,10:45,yjzx,55,杜世能,历史,No Info,No info,No info
+1119,星期四,10:00,10:45,yjzx,55,陈丽英,英语,No Info,No info,No info
+1120,星期五,10:00,10:45,yjzx,55,邓玲,语文,No Info,No info,No info
+1121,星期一,10:55,11:40,yjzx,55,自丽华,班会,No Info,No info,No info
+1122,星期二,10:55,11:40,yjzx,55,王武,信息,No Info,No info,No info
+1123,星期三,10:55,11:40,yjzx,55,陈丽英,英语,No Info,No info,No info
+1124,星期四,10:55,11:40,yjzx,55,张会菊,政治,No Info,No info,No info
+1125,星期五,10:55,11:40,yjzx,55,黄智贤,地理,No Info,No info,No info
+1126,星期一,13:50,14:35,yjzx,55,杜世能,历史,No Info,No info,No info
+1127,星期二,13:50,14:35,yjzx,55,李鸿,体育,No Info,No info,No info
+1128,星期三,13:50,14:35,yjzx,55,杨丽琼,音乐,No Info,No info,No info
+1129,星期四,13:50,14:35,yjzx,55,李鸿,体育,No Info,No info,No info
+1130,星期五,13:50,14:35,yjzx,55,陈丽英,英语,No Info,No info,No info
+1131,星期一,14:50,15:35,yjzx,55,李芳,数学,No Info,No info,No info
+1132,星期二,14:50,15:35,yjzx,55,杨宝,生物,No Info,No info,No info
+1133,星期三,14:50,15:35,yjzx,55,邓玲,语文,No Info,No info,No info
+1134,星期四,14:50,15:35,yjzx,55,陈丽英,英语,No Info,No info,No info
+1135,星期五,14:50,15:35,yjzx,55,自丽华,美术,No Info,No info,No info
+1136,星期一,15:45,16:30,yjzx,55,张会菊,政治,No Info,No info,No info
+1137,星期二,15:45,16:30,yjzx,55,邓玲,语文,No Info,No info,No info
+1138,星期三,15:45,16:30,yjzx,55,杨宝,生物,No Info,No info,No info
+1139,星期四,15:45,16:30,yjzx,55,李芳,数学,No Info,No info,No info
+1141,星期一,18:15,19:15,yjzx,55,王武,信息,No Info,No info,No info
+1142,星期二,18:15,19:15,yjzx,55,陈丽英,英语,No Info,No info,No info
+1143,星期三,18:15,19:15,yjzx,55,李芳,数学,No Info,No info,No info
+1144,星期四,18:15,19:15,yjzx,55,李芳,数学,No Info,No info,No info
+1146,星期一,19:25,20:25,yjzx,55,自丽华,美术,No Info,No info,No info
+1147,星期二,19:25,20:25,yjzx,55,邓玲,语文,No Info,No info,No info
+1148,星期三,19:25,20:25,yjzx,55,邓玲,语文,No Info,No info,No info
+1149,星期四,19:25,20:25,yjzx,55,杨宝,生物,No Info,No info,No info
+1151,星期一,7:00,7:35,yjzx,56,李华荣,政治,103,一体机,7
+1152,星期二,7:00,7:35,yjzx,56,陈丽英,英语,103,一体机,7
+1153,星期三,7:00,7:35,yjzx,56,蹇李花,历史,103,一体机,7
+1154,星期四,7:00,7:35,yjzx,56,邓玲,语文,103,一体机,7
+1155,星期五,7:00,7:35,yjzx,56,杨丽琼,音乐,103,一体机,7
+1156,星期一,8:05,8:50,yjzx,56,邓玲,语文,103,一体机,7
+1157,星期二,8:05,8:50,yjzx,56,邓玲,语文,103,一体机,7
+1158,星期三,8:05,8:50,yjzx,56,李加福,数学,103,一体机,7
+1159,星期四,8:05,8:50,yjzx,56,陈丽英,英语,103,一体机,7
+1160,星期五,8:05,8:50,yjzx,56,陈丽英,英语,103,一体机,7
+1161,星期一,9:00,9:45,yjzx,56,李加福,数学,103,一体机,7
+1162,星期二,9:00,9:45,yjzx,56,陈丽英,英语,103,一体机,7
+1163,星期三,9:00,9:45,yjzx,56,陈丽英,英语,103,一体机,7
+1164,星期四,9:00,9:45,yjzx,56,杨宝,生物,103,一体机,7
+1165,星期五,9:00,9:45,yjzx,56,邓玲,语文,103,一体机,7
+1166,星期一,10:00,10:45,yjzx,56,黄智贤,地理,103,一体机,7
+1167,星期二,10:00,10:45,yjzx,56,李加福,数学,103,一体机,7
+1168,星期三,10:00,10:45,yjzx,56,邓玲,语文,103,一体机,7
+1169,星期四,10:00,10:45,yjzx,56,李加福,数学,103,一体机,7
+1170,星期五,10:00,10:45,yjzx,56,李加福,数学,103,一体机,7
+1171,星期一,10:55,11:40,yjzx,56,陈丽英,班会,103,一体机,7
+1172,星期二,10:55,11:40,yjzx,56,杨丽琼,音乐,103,一体机,7
+1173,星期三,10:55,11:40,yjzx,56,奎尚春,体育,103,一体机,7
+1174,星期四,10:55,11:40,yjzx,56,李华荣,政治,103,一体机,7
+1175,星期五,10:55,11:40,yjzx,56,蹇李花,历史,103,一体机,7
+1176,星期一,13:50,14:35,yjzx,56,邓玲,语文,103,一体机,7
+1177,星期二,13:50,14:35,yjzx,56,王武,信息,103,一体机,7
+1178,星期三,13:50,14:35,yjzx,56,黄智贤,地理,103,一体机,7
+1179,星期四,13:50,14:35,yjzx,56,李加福,数学,103,一体机,7
+1180,星期五,13:50,14:35,yjzx,56,李华荣,政治,103,一体机,7
+1181,星期一,14:50,15:35,yjzx,56,杨宝,生物,103,一体机,7
+1182,星期二,14:50,15:35,yjzx,56,陈丽英,英语,103,一体机,7
+1183,星期三,14:50,15:35,yjzx,56,蹇李花,历史,103,一体机,7
+1184,星期四,14:50,15:35,yjzx,56,邓玲,语文,103,一体机,7
+1185,星期五,14:50,15:35,yjzx,56,陈丽英,英语,103,一体机,7
+1186,星期一,15:45,16:30,yjzx,56,奎尚春,体育,103,一体机,7
+1187,星期二,15:45,16:30,yjzx,56,李加福,数学,103,一体机,7
+1188,星期三,15:45,16:30,yjzx,56,陈丽英,英语,103,一体机,7
+1189,星期四,15:45,16:30,yjzx,56,自丽华,美术,103,一体机,7
+1191,星期一,18:15,19:15,yjzx,56,蹇李花,历史,103,一体机,7
+1192,星期二,18:15,19:15,yjzx,56,邓玲,语文,103,一体机,7
+1193,星期三,18:15,19:15,yjzx,56,邓玲,语文,103,一体机,7
+1194,星期四,18:15,19:15,yjzx,56,杨宝,生物,103,一体机,7
+1196,星期一,19:25,20:25,yjzx,56,李加福,数学,103,一体机,7
+1197,星期二,19:25,20:25,yjzx,56,陈丽英,英语,103,一体机,7
+1198,星期三,19:25,20:25,yjzx,56,李加福,数学,103,一体机,7
+1199,星期四,19:25,20:25,yjzx,56,黄智贤,地理,103,一体机,7
+1201,星期一,7:00,7:35,yjzx,57,杨旺,历史,No Info,No info,No info
+1202,星期二,7:00,7:35,yjzx,57,李华荣,政治,No Info,No info,No info
+1203,星期三,7:00,7:35,yjzx,57,徐丽红,英语,No Info,No info,No info
+1204,星期四,7:00,7:35,yjzx,57,王彩红,地理,No Info,No info,No info
+1205,星期五,7:00,7:35,yjzx,57,王建国,语文,No Info,No info,No info
+1206,星期一,8:05,8:50,yjzx,57,徐丽红,英语,No Info,No info,No info
+1207,星期二,8:05,8:50,yjzx,57,徐丽红,英语,No Info,No info,No info
+1208,星期三,8:05,8:50,yjzx,57,王建国,语文,No Info,No info,No info
+1209,星期四,8:05,8:50,yjzx,57,李加福,数学,No Info,No info,No info
+1210,星期五,8:05,8:50,yjzx,57,李加福,数学,No Info,No info,No info
+1211,星期一,9:00,9:45,yjzx,57,李华荣,政治,No Info,No info,No info
+1212,星期二,9:00,9:45,yjzx,57,李加福,数学,No Info,No info,No info
+1213,星期三,9:00,9:45,yjzx,57,李加福,数学,No Info,No info,No info
+1214,星期四,9:00,9:45,yjzx,57,徐丽红,英语,No Info,No info,No info
+1215,星期五,9:00,9:45,yjzx,57,王建国,语文,No Info,No info,No info
+1216,星期一,10:00,10:45,yjzx,57,李加福,数学,No Info,No info,No info
+1217,星期二,10:00,10:45,yjzx,57,王建国,语文,No Info,No info,No info
+1218,星期三,10:00,10:45,yjzx,57,徐丽红,英语,No Info,No info,No info
+1219,星期四,10:00,10:45,yjzx,57,王建国,语文,No Info,No info,No info
+1220,星期五,10:00,10:45,yjzx,57,徐丽红,英语,No Info,No info,No info
+1221,星期一,10:55,11:40,yjzx,57,杨旺,班会,No Info,No info,No info
+1222,星期二,10:55,11:40,yjzx,57,王彩红,地理,No Info,No info,No info
+1223,星期三,10:55,11:40,yjzx,57,杨丽琼,音乐,No Info,No info,No info
+1224,星期四,10:55,11:40,yjzx,57,王彩红,地理,No Info,No info,No info
+1225,星期五,10:55,11:40,yjzx,57,自丽华,美术,No Info,No info,No info
+1226,星期一,13:50,14:35,yjzx,57,王建国,语文,No Info,No info,No info
+1227,星期二,13:50,14:35,yjzx,57,徐丽红,英语,No Info,No info,No info
+1228,星期三,13:50,14:35,yjzx,57,李华荣,政治,No Info,No info,No info
+1229,星期四,13:50,14:35,yjzx,57,杨旺,历史,No Info,No info,No info
+1230,星期五,13:50,14:35,yjzx,57,杨宝,生物,No Info,No info,No info
+1231,星期一,14:50,15:35,yjzx,57,李加福,数学,No Info,No info,No info
+1232,星期二,14:50,15:35,yjzx,57,奎明华,体育,No Info,No info,No info
+1233,星期三,14:50,15:35,yjzx,57,李加福,数学,No Info,No info,No info
+1234,星期四,14:50,15:35,yjzx,57,徐丽红,英语,No Info,No info,No info
+1235,星期五,14:50,15:35,yjzx,57,杨旺,历史,No Info,No info,No info
+1236,星期一,15:45,16:30,yjzx,57,杨宝,生物,No Info,No info,No info
+1237,星期二,15:45,16:30,yjzx,57,王武,信息,No Info,No info,No info
+1238,星期三,15:45,16:30,yjzx,57,王建国,语文,No Info,No info,No info
+1239,星期四,15:45,16:30,yjzx,57,奎明华,体育,No Info,No info,No info
+1241,星期一,18:15,19:15,yjzx,57,李加福,数学,No Info,No info,No info
+1242,星期二,18:15,19:15,yjzx,57,杨丽琼,音乐,No Info,No info,No info
+1243,星期三,18:15,19:15,yjzx,57,李加福,数学,No Info,No info,No info
+1244,星期四,18:15,19:15,yjzx,57,王建国,语文,No Info,No info,No info
+1246,星期一,19:25,20:25,yjzx,57,王武,信息,No Info,No info,No info
+1247,星期二,19:25,20:25,yjzx,57,徐丽红,英语,No Info,No info,No info
+1248,星期三,19:25,20:25,yjzx,57,杨宝,生物,No Info,No info,No info
+1249,星期四,19:25,20:25,yjzx,57,李华荣,政治,No Info,No info,No info
+1251,星期一,7:00,7:35,yjzx,58,徐丽红,英语,104,一体机,7
+1252,星期二,7:00,7:35,yjzx,58,杨丽梅,语文,104,一体机,7
+1253,星期三,7:00,7:35,yjzx,58,王彩红,地理,104,一体机,7
+1254,星期四,7:00,7:35,yjzx,58,黄永新,生物,104,一体机,7
+1255,星期五,7:00,7:35,yjzx,58,杨旺,历史,104,一体机,7
+1256,星期一,8:05,8:50,yjzx,58,郭文明,数学,104,一体机,7
+1257,星期二,8:05,8:50,yjzx,58,郭文明,数学,104,一体机,7
+1258,星期三,8:05,8:50,yjzx,58,郭文明,数学,104,一体机,7
+1259,星期四,8:05,8:50,yjzx,58,徐丽红,英语,104,一体机,7
+1260,星期五,8:05,8:50,yjzx,58,郭文明,数学,104,一体机,7
+1261,星期一,9:00,9:45,yjzx,58,徐丽红,英语,104,一体机,7
+1262,星期二,9:00,9:45,yjzx,58,杨丽梅,语文,104,一体机,7
+1263,星期三,9:00,9:45,yjzx,58,徐丽红,英语,104,一体机,7
+1264,星期四,9:00,9:45,yjzx,58,郭文明,数学,104,一体机,7
+1265,星期五,9:00,9:45,yjzx,58,杨丽梅,语文,104,一体机,7
+1266,星期一,10:00,10:45,yjzx,58,杨丽梅,语文,104,一体机,7
+1267,星期二,10:00,10:45,yjzx,58,徐丽红,英语,104,一体机,7
+1268,星期三,10:00,10:45,yjzx,58,杨丽梅,语文,104,一体机,7
+1269,星期四,10:00,10:45,yjzx,58,杨丽梅,语文,104,一体机,7
+1270,星期五,10:00,10:45,yjzx,58,杨旺,历史,104,一体机,7
+1271,星期一,10:55,11:40,yjzx,58,徐丽红,班会,104,一体机,7
+1272,星期二,10:55,11:40,yjzx,58,郭梁玉,美术,104,一体机,7
+1273,星期三,10:55,11:40,yjzx,58,王彩红,地理,104,一体机,7
+1274,星期四,10:55,11:40,yjzx,58,李鸿,体育,104,一体机,7
+1275,星期五,10:55,11:40,yjzx,58,杨丽琼,音乐,104,一体机,7
+1276,星期一,13:50,14:35,yjzx,58,王彩红,地理,104,一体机,7
+1277,星期二,13:50,14:35,yjzx,58,李华荣,政治,104,一体机,7
+1278,星期三,13:50,14:35,yjzx,58,徐丽红,英语,104,一体机,7
+1279,星期四,13:50,14:35,yjzx,58,郭文明,数学,104,一体机,7
+1280,星期五,13:50,14:35,yjzx,58,黄永新,生物,104,一体机,7
+1281,星期一,14:50,15:35,yjzx,58,李华荣,政治,104,一体机,7
+1282,星期二,14:50,15:35,yjzx,58,谷亮,信息,104,一体机,7
+1283,星期三,14:50,15:35,yjzx,58,郭文明,数学,104,一体机,7
+1284,星期四,14:50,15:35,yjzx,58,杨旺,历史,104,一体机,7
+1285,星期五,14:50,15:35,yjzx,58,徐丽红,英语,104,一体机,7
+1286,星期一,15:45,16:30,yjzx,58,徐丽红,英语,104,一体机,7
+1287,星期二,15:45,16:30,yjzx,58,李鸿,体育,104,一体机,7
+1288,星期三,15:45,16:30,yjzx,58,杨丽梅,语文,104,一体机,7
+1289,星期四,15:45,16:30,yjzx,58,黄永新,生物,104,一体机,7
+1291,星期一,18:15,19:15,yjzx,58,杨丽梅,语文,104,一体机,7
+1292,星期二,18:15,19:15,yjzx,58,徐丽红,英语,104,一体机,7
+1293,星期三,18:15,19:15,yjzx,58,黄永新,生物,104,一体机,7
+1294,星期四,18:15,19:15,yjzx,58,李华荣,政治,104,一体机,7
+1296,星期一,19:25,20:25,yjzx,58,杨丽梅,语文,104,一体机,7
+1297,星期二,19:25,20:25,yjzx,58,杨丽琼,音乐,104,一体机,7
+1298,星期三,19:25,20:25,yjzx,58,黄永新,生物,104,一体机,7
+1299,星期四,19:25,20:25,yjzx,58,郭文明,数学,104,一体机,7
+1301,星期一,7:00,7:35,yjzx,59,沐松萍,英语,203,一体机,7
+1302,星期二,7:00,7:35,yjzx,59,王朝德,政治,203,一体机,7
+1303,星期三,7:00,7:35,yjzx,59,张云惠,生物,203,一体机,7
+1305,星期五,7:00,7:35,yjzx,59,李运萍,语文,203,一体机,7
+1306,星期一,8:05,8:50,yjzx,59,沐松萍,英语,203,一体机,7
+1307,星期二,8:05,8:50,yjzx,59,王朝德,政治,203,一体机,7
+1308,星期三,8:05,8:50,yjzx,59,李运萍,语文,203,一体机,7
+1309,星期四,8:05,8:50,yjzx,59,郭文明,数学,203,一体机,7
+1310,星期五,8:05,8:50,yjzx,59,李运萍,语文,203,一体机,7
+1311,星期一,9:00,9:45,yjzx,59,李运萍,语文,203,一体机,7
+1312,星期二,9:00,9:45,yjzx,59,沐松萍,英语,203,一体机,7
+1313,星期三,9:00,9:45,yjzx,59,郭文明,数学,203,一体机,7
+1314,星期四,9:00,9:45,yjzx,59,李运萍,语文,203,一体机,7
+1315,星期五,9:00,9:45,yjzx,59,张云惠,生物,203,一体机,7
+1316,星期一,10:00,10:45,yjzx,59,谷亮,信息,203,一体机,7
+1317,星期二,10:00,10:45,yjzx,59,郭文明,数学,203,一体机,7
+1318,星期三,10:00,10:45,yjzx,59,沐松萍,英语,203,一体机,7
+1319,星期四,10:00,10:45,yjzx,59,沐松萍,英语,203,一体机,7
+1320,星期五,10:00,10:45,yjzx,59,郭文明,数学,203,一体机,7
+1321,星期一,10:55,11:40,yjzx,59,李志鸿,班会,203,一体机,7
+1322,星期二,10:55,11:40,yjzx,59,李运萍,语文,203,一体机,7
+1323,星期三,10:55,11:40,yjzx,59,杨旺,历史,203,一体机,7
+1324,星期四,10:55,11:40,yjzx,59,李志鸿,体育,203,一体机,7
+1325,星期五,10:55,11:40,yjzx,59,沐松萍,英语,203,一体机,7
+1326,星期一,13:50,14:35,yjzx,59,杨丽琼,音乐,203,一体机,7
+1327,星期二,13:50,14:35,yjzx,59,郭梁玉,美术,203,一体机,7
+1328,星期三,13:50,14:35,yjzx,59,张云惠,生物,203,一体机,7
+1329,星期四,13:50,14:35,yjzx,59,王彩红,地理,203,一体机,7
+1330,星期五,13:50,14:35,yjzx,59,王彩红,地理,203,一体机,7
+1331,星期一,14:50,15:35,yjzx,59,郭文明,数学,203,一体机,7
+1332,星期二,14:50,15:35,yjzx,59,沐松萍,英语,203,一体机,7
+1333,星期三,14:50,15:35,yjzx,59,杨旺,历史,203,一体机,7
+1334,星期四,14:50,15:35,yjzx,59,王朝德,政治,203,一体机,7
+1335,星期五,14:50,15:35,yjzx,59,郭文明,数学,203,一体机,7
+1336,星期一,15:45,16:30,yjzx,59,李运萍,语文,203,一体机,7
+1337,星期二,15:45,16:30,yjzx,59,郭文明,数学,203,一体机,7
+1338,星期三,15:45,16:30,yjzx,59,李志鸿,体育,203,一体机,7
+1339,星期四,15:45,16:30,yjzx,59,沐松萍,英语,203,一体机,7
+1341,星期一,18:15,19:15,yjzx,59,沐松萍,英语,203,一体机,7
+1342,星期二,18:15,19:15,yjzx,59,王彩红,地理,203,一体机,7
+1343,星期三,18:15,19:15,yjzx,59,王朝德,政治,203,一体机,7
+1344,星期四,18:15,19:15,yjzx,59,郭文明,数学,203,一体机,7
+1346,星期一,19:25,20:25,yjzx,59,杨旺,历史,203,一体机,7
+1347,星期二,19:25,20:25,yjzx,59,王彩红,地理,203,一体机,7
+1348,星期三,19:25,20:25,yjzx,59,沐松萍,英语,203,一体机,7
+1349,星期四,19:25,20:25,yjzx,59,李运萍,语文,203,一体机,7
+1351,星期一,7:00,7:35,yjzx,60,李运萍,语文,205,一体机,7
+1352,星期二,7:00,7:35,yjzx,60,沐松萍,英语,205,一体机,7
+1353,星期三,7:00,7:35,yjzx,60,孟丽花,地理,205,一体机,7
+1355,星期五,7:00,7:35,yjzx,60,张云惠,生物,205,一体机,7
+1356,星期一,8:05,8:50,yjzx,60,李运萍,语文,205,一体机,7
+1357,星期二,8:05,8:50,yjzx,60,沐松萍,英语,205,一体机,7
+1358,星期三,8:05,8:50,yjzx,60,张连,数学,205,一体机,7
+1359,星期四,8:05,8:50,yjzx,60,张连,数学,205,一体机,7
+1360,星期五,8:05,8:50,yjzx,60,沐松萍,英语,205,一体机,7
+1361,星期一,9:00,9:45,yjzx,60,沐松萍,英语,205,一体机,7
+1362,星期二,9:00,9:45,yjzx,60,张连,数学,205,一体机,7
+1363,星期三,9:00,9:45,yjzx,60,沐松萍,英语,205,一体机,7
+1364,星期四,9:00,9:45,yjzx,60,沐松萍,英语,205,一体机,7
+1365,星期五,9:00,9:45,yjzx,60,张连,数学,205,一体机,7
+1366,星期一,10:00,10:45,yjzx,60,张连,数学,205,一体机,7
+1367,星期二,10:00,10:45,yjzx,60,李运萍,语文,205,一体机,7
+1368,星期三,10:00,10:45,yjzx,60,李运萍,语文,205,一体机,7
+1369,星期四,10:00,10:45,yjzx,60,张连,数学,205,一体机,7
+1370,星期五,10:00,10:45,yjzx,60,李运萍,语文,205,一体机,7
+1371,星期一,10:55,11:40,yjzx,60,李运萍,班会,205,一体机,7
+1372,星期二,10:55,11:40,yjzx,60,孟丽花,地理,205,一体机,7
+1373,星期三,10:55,11:40,yjzx,60,张云惠,生物,205,一体机,7
+1374,星期四,10:55,11:40,yjzx,60,杨丽琼,音乐,205,一体机,7
+1375,星期五,10:55,11:40,yjzx,60,王朝德,政治,205,一体机,7
+1376,星期一,13:50,14:35,yjzx,60,谷亮,信息,205,一体机,7
+1377,星期二,13:50,14:35,yjzx,60,王朝德,政治,205,一体机,7
+1378,星期三,13:50,14:35,yjzx,60,张连,体育,205,一体机,7
+1379,星期四,13:50,14:35,yjzx,60,李运萍,语文,205,一体机,7
+1380,星期五,13:50,14:35,yjzx,60,张云惠,生物,205,一体机,7
+1381,星期一,14:50,15:35,yjzx,60,沐松萍,英语,205,一体机,7
+1382,星期二,14:50,15:35,yjzx,60,杨旺,历史,205,一体机,7
+1383,星期三,14:50,15:35,yjzx,60,沐松萍,英语,205,一体机,7
+1384,星期四,14:50,15:35,yjzx,60,孟丽花,地理,205,一体机,7
+1385,星期五,14:50,15:35,yjzx,60,李运萍,语文,205,一体机,7
+1386,星期一,15:45,16:30,yjzx,60,杨旺,历史,205,一体机,7
+1387,星期二,15:45,16:30,yjzx,60,张连,数学,205,一体机,7
+1388,星期三,15:45,16:30,yjzx,60,郭梁玉,美术,205,一体机,7
+1389,星期四,15:45,16:30,yjzx,60,张连,体育,205,一体机,7
+1391,星期一,18:15,19:15,yjzx,60,杨旺,历史,205,一体机,7
+1392,星期二,18:15,19:15,yjzx,60,张连,数学,205,一体机,7
+1393,星期三,18:15,19:15,yjzx,60,沐松萍,英语,205,一体机,7
+1394,星期四,18:15,19:15,yjzx,60,李运萍,语文,205,一体机,7
+1396,星期一,19:25,20:25,yjzx,60,沐松萍,英语,205,一体机,7
+1397,星期二,19:25,20:25,yjzx,60,张连,数学,205,一体机,7
+1398,星期三,19:25,20:25,yjzx,60,谷亮,信息,205,一体机,7
+1399,星期四,19:25,20:25,yjzx,60,王朝德,政治,205,一体机,7
+1401,星期一,7:00,7:35,yjzx,61,熊雪芬,语文,202,一体机,7
+1402,星期二,7:00,7:35,yjzx,61,杨泽志,历史,202,一体机,7
+1403,星期三,7:00,7:35,yjzx,61,李清媚,英语,202,一体机,7
+1404,星期四,7:00,7:35,yjzx,61,谷亮,信息,202,一体机,7
+1405,星期五,7:00,7:35,yjzx,61,王朝德,政治,202,一体机,7
+1406,星期一,8:05,8:50,yjzx,61,熊雪芬,语文,202,一体机,7
+1407,星期二,8:05,8:50,yjzx,61,熊雪芬,语文,202,一体机,7
+1408,星期三,8:05,8:50,yjzx,61,李清媚,英语,202,一体机,7
+1409,星期四,8:05,8:50,yjzx,61,李清媚,英语,202,一体机,7
+1410,星期五,8:05,8:50,yjzx,61,熊雪芬,语文,202,一体机,7
+1411,星期一,9:00,9:45,yjzx,61,徐燕珺,数学,202,一体机,7
+1412,星期二,9:00,9:45,yjzx,61,徐燕珺,数学,202,一体机,7
+1413,星期三,9:00,9:45,yjzx,61,徐燕珺,数学,202,一体机,7
+1414,星期四,9:00,9:45,yjzx,61,熊雪芬,语文,202,一体机,7
+1415,星期五,9:00,9:45,yjzx,61,徐燕珺,数学,202,一体机,7
+1416,星期一,10:00,10:45,yjzx,61,李清媚,英语,202,一体机,7
+1417,星期二,10:00,10:45,yjzx,61,李清媚,英语,202,一体机,7
+1418,星期三,10:00,10:45,yjzx,61,熊雪芬,语文,202,一体机,7
+1419,星期四,10:00,10:45,yjzx,61,徐燕珺,数学,202,一体机,7
+1420,星期五,10:00,10:45,yjzx,61,李清媚,英语,202,一体机,7
+1421,星期一,10:55,11:40,yjzx,61,熊雪芬,班会,202,一体机,7
+1422,星期二,10:55,11:40,yjzx,61,王朝德,政治,202,一体机,7
+1423,星期三,10:55,11:40,yjzx,61,孟丽花,地理,202,一体机,7
+1424,星期四,10:55,11:40,yjzx,61,郭梁玉,美术,202,一体机,7
+1425,星期五,10:55,11:40,yjzx,61,谷亮,信息,202,一体机,7
+1426,星期一,13:50,14:35,yjzx,61,孟丽花,地理,202,一体机,7
+1427,星期二,13:50,14:35,yjzx,61,李钟国,体育,202,一体机,7
+1428,星期三,13:50,14:35,yjzx,61,徐燕珺,数学,202,一体机,7
+1429,星期四,13:50,14:35,yjzx,61,李钟国,体育,202,一体机,7
+1430,星期五,13:50,14:35,yjzx,61,徐燕珺,数学,202,一体机,7
+1431,星期一,14:50,15:35,yjzx,61,张云惠,生物,202,一体机,7
+1432,星期二,14:50,15:35,yjzx,61,李清媚,英语,202,一体机,7
+1433,星期三,14:50,15:35,yjzx,61,杨泽志,历史,202,一体机,7
+1434,星期四,14:50,15:35,yjzx,61,李清媚,英语,202,一体机,7
+1435,星期五,14:50,15:35,yjzx,61,熊雪芬,语文,202,一体机,7
+1436,星期一,15:45,16:30,yjzx,61,杨泽志,历史,202,一体机,7
+1437,星期二,15:45,16:30,yjzx,61,杨丽琼,音乐,202,一体机,7
+1438,星期三,15:45,16:30,yjzx,61,王朝德,政治,202,一体机,7
+1439,星期四,15:45,16:30,yjzx,61,张云惠,生物,202,一体机,7
+1441,星期一,18:15,19:15,yjzx,61,孟丽花,地理,202,一体机,7
+1442,星期二,18:15,19:15,yjzx,61,李清媚,英语,202,一体机,7
+1443,星期三,18:15,19:15,yjzx,61,熊雪芬,语文,202,一体机,7
+1444,星期四,18:15,19:15,yjzx,61,张云惠,生物,202,一体机,7
+1446,星期一,19:25,20:25,yjzx,61,杨泽志,历史,202,一体机,7
+1447,星期二,19:25,20:25,yjzx,61,徐燕珺,数学,202,一体机,7
+1448,星期三,19:25,20:25,yjzx,61,王朝德,政治,202,一体机,7
+1449,星期四,19:25,20:25,yjzx,61,李清媚,英语,202,一体机,7
+1451,星期一,7:00,7:35,yjzx,62,谷亮,信息,217,一体机,7
+1452,星期二,7:00,7:35,yjzx,62,孟丽花,地理,217,一体机,7
+1453,星期三,7:00,7:35,yjzx,62,熊雪芬,语文,217,一体机,7
+1454,星期四,7:00,7:35,yjzx,62,朱红祥,政治,217,一体机,7
+1455,星期五,7:00,7:35,yjzx,62,李清媚,英语,217,一体机,7
+1456,星期一,8:05,8:50,yjzx,62,李清媚,英语,217,一体机,7
+1457,星期二,8:05,8:50,yjzx,62,徐燕珺,数学,217,一体机,7
+1458,星期三,8:05,8:50,yjzx,62,徐燕珺,数学,217,一体机,7
+1459,星期四,8:05,8:50,yjzx,62,徐燕珺,数学,217,一体机,7
+1460,星期五,8:05,8:50,yjzx,62,李清媚,英语,217,一体机,7
+1461,星期一,9:00,9:45,yjzx,62,熊雪芬,语文,217,一体机,7
+1462,星期二,9:00,9:45,yjzx,62,孟丽花,地理,217,一体机,7
+1463,星期三,9:00,9:45,yjzx,62,熊雪芬,语文,217,一体机,7
+1464,星期四,9:00,9:45,yjzx,62,李清媚,英语,217,一体机,7
+1465,星期五,9:00,9:45,yjzx,62,熊雪芬,语文,217,一体机,7
+1466,星期一,10:00,10:45,yjzx,62,杨丽琼,音乐,217,一体机,7
+1467,星期二,10:00,10:45,yjzx,62,徐燕珺,数学,217,一体机,7
+1468,星期三,10:00,10:45,yjzx,62,李清媚,英语,217,一体机,7
+1469,星期四,10:00,10:45,yjzx,62,熊雪芬,语文,217,一体机,7
+1470,星期五,10:00,10:45,yjzx,62,徐燕珺,数学,217,一体机,7
+1471,星期一,10:55,11:40,yjzx,62,徐燕珺,班会,217,一体机,7
+1472,星期二,10:55,11:40,yjzx,62,李清媚,英语,217,一体机,7
+1473,星期三,10:55,11:40,yjzx,62,郭梁玉,美术,217,一体机,7
+1474,星期四,10:55,11:40,yjzx,62,杨泽志,历史,217,一体机,7
+1475,星期五,10:55,11:40,yjzx,62,朱红祥,政治,217,一体机,7
+1476,星期一,13:50,14:35,yjzx,62,李清媚,英语,217,一体机,7
+1477,星期二,13:50,14:35,yjzx,62,张云惠,生物,217,一体机,7
+1478,星期三,13:50,14:35,yjzx,62,奎尚春,体育,217,一体机,7
+1479,星期四,13:50,14:35,yjzx,62,奎尚春,体育,217,一体机,7
+1480,星期五,13:50,14:35,yjzx,62,熊雪芬,语文,217,一体机,7
+1481,星期一,14:50,15:35,yjzx,62,徐燕珺,数学,217,一体机,7
+1482,星期二,14:50,15:35,yjzx,62,杨泽志,历史,217,一体机,7
+1483,星期三,14:50,15:35,yjzx,62,李清媚,英语,217,一体机,7
+1484,星期四,14:50,15:35,yjzx,62,谷亮,信息,217,一体机,7
+1485,星期五,14:50,15:35,yjzx,62,徐燕珺,数学,217,一体机,7
+1486,星期一,15:45,16:30,yjzx,62,张云惠,生物,217,一体机,7
+1487,星期二,15:45,16:30,yjzx,62,朱红祥,政治,217,一体机,7
+1488,星期三,15:45,16:30,yjzx,62,熊雪芬,语文,217,一体机,7
+1489,星期四,15:45,16:30,yjzx,62,孟丽花,地理,217,一体机,7
+1491,星期一,18:15,19:15,yjzx,62,朱红祥,政治,217,一体机,7
+1492,星期二,18:15,19:15,yjzx,62,徐燕珺,数学,217,一体机,7
+1493,星期三,18:15,19:15,yjzx,62,杨泽志,历史,217,一体机,7
+1494,星期四,18:15,19:15,yjzx,62,李清媚,英语,217,一体机,7
+1496,星期一,19:25,20:25,yjzx,62,孟丽花,地理,217,一体机,7
+1497,星期二,19:25,20:25,yjzx,62,李清媚,英语,217,一体机,7
+1498,星期三,19:25,20:25,yjzx,62,熊雪芬,语文,217,一体机,7
+1499,星期四,19:25,20:25,yjzx,62,张云惠,生物,217,一体机,7
